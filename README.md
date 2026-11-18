@@ -1,6 +1,6 @@
 # BerryBI proovitöö: kus Eestis läheb paremini ja kas vahe kasvab
 
-**Failid:** `berrybi_palgad.sql` (laadimine ja päringud), `palgad.duckdb` (andmebaas), `berrybi_kodutoo.pbix` ja ekraanipilt (töölaud).
+**Failid:** `script.sql` (laadimine ja päringud), `palgad.duckdb` (andmebaas), `berrybi_kodutoo.pbix` ja ekraanipilt (töölaud), `PA107.csv` (toorandmed), `piirkond_vs_eesti.csv` (piirkondade transformeeritud andmed),  `maakondade_vahe.csv` (vahe transformeeritud andmed)
 
 ## 1. Küsimuse mõtestamine
 
@@ -22,12 +22,8 @@ Vaade `v_piirkond_vs_eesti` arvutab iga maakonna palga protsendina Eesti näitaj
 
 ## 5. Sõnum kliendile
 
-Palga järgi läheb paremini Harju maakonnas, kus keskmine palk oli 2025. aastal 12% üle Eesti keskmise, ja Tartu maakonnas, mis on Eesti keskmisel tasemel; ülejäänud 13 maakonda jäävad 16–25% alla keskmise, madalaim on Valga. Kõrgeima ja madalaima maakonna vahe kasvas 2022. aastal ja on sealt alates veidi kahanenud. Üllatav on, et sellest hoolimata on 13 maakonda 15-st Eesti keskmisest varasemast rohkem maha jäänud – oma positsiooni on parandanud ainult Ida-Viru ja Tartu. Palk ei näita elukallidust ega palgaerinevusi maakonna sees, seega ei ole see täielik heaolu mõõdik. Järgmise sammuna soovitan vaadata omavalitsuste tasandit ning lisada tööhõive ja rahvastiku muutuse, et näha, kas palgaerinevused kattuvad piirkondade elujõulisusega.
-
-## Mida teeksin edasi
-
-Lisaksin töölauale drillthrough-lehe maakonnast omavalitsusteni ja liidaksin piirimuutusega omavalitsuste vana ja uue nime üheks aegreaks.
+Palga järgi läheb kõige paremini Harju maakonnas, kus keskmine palk oli 2025. aastal 12% üle Eesti keskmise, ja teisena Tartu maakonnas, mis on Eesti keskmisel tasemel. Ülejäänud 13 maakonda jäävad alla keskmise, kuid kõrgeima ja madalaima maakonna vahe on aastatega veidi kahanenud. Üllatav on, et sellegipoolest on oma positsiooni parandanud ainult Ida-Viru ja Tartu maakond. Nende andmete piirang on see, et need ei näita elukallidust ega palgaerinevusi maakonna sees ning palk üksi ei ole täielik heaolu mõõdik. Järgmise sammuna soovitan lisada ostujõu, tööhõive ja rahvastiku muutuse andmed ning vaadata neid omavalitsuse tasemel, et näha piirkondlikke erinevusi täpsemalt.
 
 ## AI-tööriistade kasutamine
 
-Kasutasin Claude'i (Anthropic) SQL-päringute ja DAX-meetmete mustandite koostamiseks, töölaua visuaalide ülesehituse aruteluks ning selle dokumendi sõnastuse toimetamiseks. Tõlgenduse ja andmestiku valisin ise, päringud käivitasin ja tulemusi kontrollisin ise ning töölaua ehitasin Power BI-s ise.
+Kasutasin Claude’i DuckDB kasutamise õppimiseks ja Statistikaameti andmebaasist sobivate andmete kiireks leidmiseks. Lisaks arutasin läbi, kuidas andmeid teisendada ja milliseid näitajaid nende põhjal arvutada. Claude koostas SQL-päringute ja DAX-meetmete mustandid, mida ma kohandasin ja kontrollisin, ning aitas toimetada selle dokumendi sõnastust.
