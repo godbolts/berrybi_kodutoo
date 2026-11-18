@@ -1,0 +1,941 @@
+tase,maakond,haldusuksus,naitaja,aasta,vaartus,eesti_vaartus,protsent_eestist,vahe_eur,muutus_pp,koht
+maakond,Harju maakond,Harju maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1340.00,1200.00,111.7,140.00,0.0,1
+maakond,Harju maakond,Harju maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1500.00,1340.00,111.9,160.00,0.2,1
+maakond,Harju maakond,Harju maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1685.00,1501.00,112.3,184.00,0.6,1
+maakond,Harju maakond,Harju maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1818.00,1628.00,111.7,190.00,0.0,1
+maakond,Harju maakond,Harju maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1916.00,1724.00,111.1,192.00,-0.6,1
+maakond,Harju maakond,Harju maakond,"Keskmine brutokuupalk, eurot",2021,1658.00,1474.00,112.5,184.00,0.0,1
+maakond,Harju maakond,Harju maakond,"Keskmine brutokuupalk, eurot",2022,1855.00,1645.00,112.8,210.00,0.3,1
+maakond,Harju maakond,Harju maakond,"Keskmine brutokuupalk, eurot",2023,2057.00,1832.00,112.3,225.00,-0.2,1
+maakond,Harju maakond,Harju maakond,"Keskmine brutokuupalk, eurot",2024,2218.00,1981.00,112.0,237.00,-0.5,1
+maakond,Harju maakond,Harju maakond,"Keskmine brutokuupalk, eurot",2025,2336.00,2092.00,111.7,244.00,-0.8,1
+maakond,Hiiu maakond,Hiiu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1005.00,1200.00,83.8,-195.00,0.0,10
+maakond,Hiiu maakond,Hiiu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1128.00,1340.00,84.2,-212.00,0.4,9
+maakond,Hiiu maakond,Hiiu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1253.00,1501.00,83.5,-248.00,-0.3,9
+maakond,Hiiu maakond,Hiiu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1373.00,1628.00,84.3,-255.00,0.5,6
+maakond,Hiiu maakond,Hiiu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1438.00,1724.00,83.4,-286.00,-0.4,8
+maakond,Hiiu maakond,Hiiu maakond,"Keskmine brutokuupalk, eurot",2021,1154.00,1474.00,78.3,-320.00,0.0,12
+maakond,Hiiu maakond,Hiiu maakond,"Keskmine brutokuupalk, eurot",2022,1259.00,1645.00,76.5,-386.00,-1.8,13
+maakond,Hiiu maakond,Hiiu maakond,"Keskmine brutokuupalk, eurot",2023,1398.00,1832.00,76.3,-434.00,-2.0,13
+maakond,Hiiu maakond,Hiiu maakond,"Keskmine brutokuupalk, eurot",2024,1537.00,1981.00,77.6,-444.00,-0.7,10
+maakond,Hiiu maakond,Hiiu maakond,"Keskmine brutokuupalk, eurot",2025,1613.00,2092.00,77.1,-479.00,-1.2,12
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,932.00,1200.00,77.7,-268.00,0.0,15
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1037.00,1340.00,77.4,-303.00,-0.3,15
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1181.00,1501.00,78.7,-320.00,1.0,14
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1297.00,1628.00,79.7,-331.00,2.0,14
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1380.00,1724.00,80.0,-344.00,2.3,14
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Keskmine brutokuupalk, eurot",2021,1145.00,1474.00,77.7,-329.00,0.0,13
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Keskmine brutokuupalk, eurot",2022,1270.00,1645.00,77.2,-375.00,-0.5,12
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Keskmine brutokuupalk, eurot",2023,1437.00,1832.00,78.4,-395.00,0.7,8
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Keskmine brutokuupalk, eurot",2024,1576.00,1981.00,79.6,-405.00,1.9,7
+maakond,Ida-Viru maakond,Ida-Viru maakond,"Keskmine brutokuupalk, eurot",2025,1669.00,2092.00,79.8,-423.00,2.1,7
+maakond,Järva maakond,Järva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1099.00,1200.00,91.6,-101.00,0.0,4
+maakond,Järva maakond,Järva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1202.00,1340.00,89.7,-138.00,-1.9,4
+maakond,Järva maakond,Järva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1341.00,1501.00,89.3,-160.00,-2.3,3
+maakond,Järva maakond,Järva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1460.00,1628.00,89.7,-168.00,-1.9,3
+maakond,Järva maakond,Järva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1556.00,1724.00,90.3,-168.00,-1.3,3
+maakond,Järva maakond,Järva maakond,"Keskmine brutokuupalk, eurot",2021,1268.00,1474.00,86.0,-206.00,0.0,3
+maakond,Järva maakond,Järva maakond,"Keskmine brutokuupalk, eurot",2022,1382.00,1645.00,84.0,-263.00,-2.0,3
+maakond,Järva maakond,Järva maakond,"Keskmine brutokuupalk, eurot",2023,1527.00,1832.00,83.4,-305.00,-2.6,3
+maakond,Järva maakond,Järva maakond,"Keskmine brutokuupalk, eurot",2024,1649.00,1981.00,83.2,-332.00,-2.8,3
+maakond,Järva maakond,Järva maakond,"Keskmine brutokuupalk, eurot",2025,1747.00,2092.00,83.5,-345.00,-2.5,3
+maakond,Jõgeva maakond,Jõgeva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1000.00,1200.00,83.3,-200.00,0.0,11
+maakond,Jõgeva maakond,Jõgeva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1125.00,1340.00,84.0,-215.00,0.7,11
+maakond,Jõgeva maakond,Jõgeva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1250.00,1501.00,83.3,-251.00,0.0,10
+maakond,Jõgeva maakond,Jõgeva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1350.00,1628.00,82.9,-278.00,-0.4,9
+maakond,Jõgeva maakond,Jõgeva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1435.00,1724.00,83.2,-289.00,-0.1,9
+maakond,Jõgeva maakond,Jõgeva maakond,"Keskmine brutokuupalk, eurot",2021,1164.00,1474.00,79.0,-310.00,0.0,10
+maakond,Jõgeva maakond,Jõgeva maakond,"Keskmine brutokuupalk, eurot",2022,1284.00,1645.00,78.1,-361.00,-0.9,10
+maakond,Jõgeva maakond,Jõgeva maakond,"Keskmine brutokuupalk, eurot",2023,1425.00,1832.00,77.8,-407.00,-1.2,9
+maakond,Jõgeva maakond,Jõgeva maakond,"Keskmine brutokuupalk, eurot",2024,1548.00,1981.00,78.1,-433.00,-0.9,9
+maakond,Jõgeva maakond,Jõgeva maakond,"Keskmine brutokuupalk, eurot",2025,1636.00,2092.00,78.2,-456.00,-0.8,9
+maakond,Lääne maakond,Lääne maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1048.00,1200.00,87.3,-152.00,0.0,6
+maakond,Lääne maakond,Lääne maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1163.00,1340.00,86.8,-177.00,-0.5,6
+maakond,Lääne maakond,Lääne maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1258.00,1501.00,83.8,-243.00,-3.5,8
+maakond,Lääne maakond,Lääne maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1336.00,1628.00,82.1,-292.00,-5.2,11
+maakond,Lääne maakond,Lääne maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1422.00,1724.00,82.5,-302.00,-4.8,11
+maakond,Lääne maakond,Lääne maakond,"Keskmine brutokuupalk, eurot",2021,1182.00,1474.00,80.2,-292.00,0.0,8
+maakond,Lääne maakond,Lääne maakond,"Keskmine brutokuupalk, eurot",2022,1299.00,1645.00,79.0,-346.00,-1.2,8
+maakond,Lääne maakond,Lääne maakond,"Keskmine brutokuupalk, eurot",2023,1420.00,1832.00,77.5,-412.00,-2.7,12
+maakond,Lääne maakond,Lääne maakond,"Keskmine brutokuupalk, eurot",2024,1513.00,1981.00,76.4,-468.00,-3.8,14
+maakond,Lääne maakond,Lääne maakond,"Keskmine brutokuupalk, eurot",2025,1604.00,2092.00,76.7,-488.00,-3.5,13
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1029.00,1200.00,85.8,-171.00,0.0,7
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1143.00,1340.00,85.3,-197.00,-0.5,8
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1265.00,1501.00,84.3,-236.00,-1.5,6
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1356.00,1628.00,83.3,-272.00,-2.5,7
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1441.00,1724.00,83.6,-283.00,-2.2,6
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Keskmine brutokuupalk, eurot",2021,1194.00,1474.00,81.0,-280.00,0.0,7
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Keskmine brutokuupalk, eurot",2022,1310.00,1645.00,79.6,-335.00,-1.4,7
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Keskmine brutokuupalk, eurot",2023,1458.00,1832.00,79.6,-374.00,-1.4,7
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Keskmine brutokuupalk, eurot",2024,1559.00,1981.00,78.7,-422.00,-2.3,8
+maakond,Lääne-Viru maakond,Lääne-Viru maakond,"Keskmine brutokuupalk, eurot",2025,1647.00,2092.00,78.7,-445.00,-2.3,8
+maakond,Pärnu maakond,Pärnu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1018.00,1200.00,84.8,-182.00,0.0,8
+maakond,Pärnu maakond,Pärnu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1144.00,1340.00,85.4,-196.00,0.6,7
+maakond,Pärnu maakond,Pärnu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1263.00,1501.00,84.1,-238.00,-0.7,7
+maakond,Pärnu maakond,Pärnu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1356.00,1628.00,83.3,-272.00,-1.5,7
+maakond,Pärnu maakond,Pärnu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1440.00,1724.00,83.5,-284.00,-1.3,7
+maakond,Pärnu maakond,Pärnu maakond,"Keskmine brutokuupalk, eurot",2021,1195.00,1474.00,81.1,-279.00,0.0,6
+maakond,Pärnu maakond,Pärnu maakond,"Keskmine brutokuupalk, eurot",2022,1329.00,1645.00,80.8,-316.00,-0.3,6
+maakond,Pärnu maakond,Pärnu maakond,"Keskmine brutokuupalk, eurot",2023,1479.00,1832.00,80.7,-353.00,-0.4,6
+maakond,Pärnu maakond,Pärnu maakond,"Keskmine brutokuupalk, eurot",2024,1595.00,1981.00,80.5,-386.00,-0.6,5
+maakond,Pärnu maakond,Pärnu maakond,"Keskmine brutokuupalk, eurot",2025,1680.00,2092.00,80.3,-412.00,-0.8,6
+maakond,Põlva maakond,Põlva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1016.00,1200.00,84.7,-184.00,0.0,9
+maakond,Põlva maakond,Põlva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1128.00,1340.00,84.2,-212.00,-0.5,9
+maakond,Põlva maakond,Põlva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1241.00,1501.00,82.7,-260.00,-2.0,11
+maakond,Põlva maakond,Põlva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1339.00,1628.00,82.2,-289.00,-2.5,10
+maakond,Põlva maakond,Põlva maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1427.00,1724.00,82.8,-297.00,-1.9,10
+maakond,Põlva maakond,Põlva maakond,"Keskmine brutokuupalk, eurot",2021,1167.00,1474.00,79.2,-307.00,0.0,9
+maakond,Põlva maakond,Põlva maakond,"Keskmine brutokuupalk, eurot",2022,1286.00,1645.00,78.2,-359.00,-1.0,9
+maakond,Põlva maakond,Põlva maakond,"Keskmine brutokuupalk, eurot",2023,1422.00,1832.00,77.6,-410.00,-1.6,11
+maakond,Põlva maakond,Põlva maakond,"Keskmine brutokuupalk, eurot",2024,1534.00,1981.00,77.4,-447.00,-1.8,11
+maakond,Põlva maakond,Põlva maakond,"Keskmine brutokuupalk, eurot",2025,1636.00,2092.00,78.2,-456.00,-1.0,9
+maakond,Rapla maakond,Rapla maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1069.00,1200.00,89.1,-131.00,0.0,5
+maakond,Rapla maakond,Rapla maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1174.00,1340.00,87.6,-166.00,-1.5,5
+maakond,Rapla maakond,Rapla maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1300.00,1501.00,86.6,-201.00,-2.5,5
+maakond,Rapla maakond,Rapla maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1392.00,1628.00,85.5,-236.00,-3.6,5
+maakond,Rapla maakond,Rapla maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1473.00,1724.00,85.4,-251.00,-3.7,5
+maakond,Rapla maakond,Rapla maakond,"Keskmine brutokuupalk, eurot",2021,1221.00,1474.00,82.8,-253.00,0.0,5
+maakond,Rapla maakond,Rapla maakond,"Keskmine brutokuupalk, eurot",2022,1340.00,1645.00,81.5,-305.00,-1.3,5
+maakond,Rapla maakond,Rapla maakond,"Keskmine brutokuupalk, eurot",2023,1485.00,1832.00,81.1,-347.00,-1.7,5
+maakond,Rapla maakond,Rapla maakond,"Keskmine brutokuupalk, eurot",2024,1593.00,1981.00,80.4,-388.00,-2.4,6
+maakond,Rapla maakond,Rapla maakond,"Keskmine brutokuupalk, eurot",2025,1697.00,2092.00,81.1,-395.00,-1.7,5
+maakond,Saare maakond,Saare maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1000.00,1200.00,83.3,-200.00,0.0,11
+maakond,Saare maakond,Saare maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1098.00,1340.00,81.9,-242.00,-1.4,12
+maakond,Saare maakond,Saare maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1204.00,1501.00,80.2,-297.00,-3.1,13
+maakond,Saare maakond,Saare maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1307.00,1628.00,80.3,-321.00,-3.0,12
+maakond,Saare maakond,Saare maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1393.00,1724.00,80.8,-331.00,-2.5,12
+maakond,Saare maakond,Saare maakond,"Keskmine brutokuupalk, eurot",2021,1143.00,1474.00,77.5,-331.00,0.0,14
+maakond,Saare maakond,Saare maakond,"Keskmine brutokuupalk, eurot",2022,1257.00,1645.00,76.4,-388.00,-1.1,14
+maakond,Saare maakond,Saare maakond,"Keskmine brutokuupalk, eurot",2023,1395.00,1832.00,76.1,-437.00,-1.4,14
+maakond,Saare maakond,Saare maakond,"Keskmine brutokuupalk, eurot",2024,1517.00,1981.00,76.6,-464.00,-0.9,13
+maakond,Saare maakond,Saare maakond,"Keskmine brutokuupalk, eurot",2025,1604.00,2092.00,76.7,-488.00,-0.8,13
+maakond,Tartu maakond,Tartu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1234.00,1200.00,102.8,34.00,0.0,2
+maakond,Tartu maakond,Tartu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1379.00,1340.00,102.9,39.00,0.1,2
+maakond,Tartu maakond,Tartu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1557.00,1501.00,103.7,56.00,0.9,2
+maakond,Tartu maakond,Tartu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1688.00,1628.00,103.7,60.00,0.9,2
+maakond,Tartu maakond,Tartu maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1794.00,1724.00,104.1,70.00,1.3,2
+maakond,Tartu maakond,Tartu maakond,"Keskmine brutokuupalk, eurot",2021,1474.00,1474.00,100.0,0.00,0.0,2
+maakond,Tartu maakond,Tartu maakond,"Keskmine brutokuupalk, eurot",2022,1641.00,1645.00,99.8,-4.00,-0.2,2
+maakond,Tartu maakond,Tartu maakond,"Keskmine brutokuupalk, eurot",2023,1837.00,1832.00,100.3,5.00,0.3,2
+maakond,Tartu maakond,Tartu maakond,"Keskmine brutokuupalk, eurot",2024,1995.00,1981.00,100.7,14.00,0.7,2
+maakond,Tartu maakond,Tartu maakond,"Keskmine brutokuupalk, eurot",2025,2112.00,2092.00,101.0,20.00,1.0,2
+maakond,Valga maakond,Valga maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,954.00,1200.00,79.5,-246.00,0.0,14
+maakond,Valga maakond,Valga maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1038.00,1340.00,77.5,-302.00,-2.0,14
+maakond,Valga maakond,Valga maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1173.00,1501.00,78.1,-328.00,-1.4,15
+maakond,Valga maakond,Valga maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1270.00,1628.00,78.0,-358.00,-1.5,15
+maakond,Valga maakond,Valga maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1357.00,1724.00,78.7,-367.00,-0.8,15
+maakond,Valga maakond,Valga maakond,"Keskmine brutokuupalk, eurot",2021,1114.00,1474.00,75.6,-360.00,0.0,15
+maakond,Valga maakond,Valga maakond,"Keskmine brutokuupalk, eurot",2022,1197.00,1645.00,72.8,-448.00,-2.8,15
+maakond,Valga maakond,Valga maakond,"Keskmine brutokuupalk, eurot",2023,1348.00,1832.00,73.6,-484.00,-2.0,15
+maakond,Valga maakond,Valga maakond,"Keskmine brutokuupalk, eurot",2024,1461.00,1981.00,73.8,-520.00,-1.8,15
+maakond,Valga maakond,Valga maakond,"Keskmine brutokuupalk, eurot",2025,1560.00,2092.00,74.6,-532.00,-1.0,15
+maakond,Viljandi maakond,Viljandi maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,1100.00,1200.00,91.7,-100.00,0.0,3
+maakond,Viljandi maakond,Viljandi maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1211.00,1340.00,90.4,-129.00,-1.3,3
+maakond,Viljandi maakond,Viljandi maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1329.00,1501.00,88.5,-172.00,-3.2,4
+maakond,Viljandi maakond,Viljandi maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1438.00,1628.00,88.3,-190.00,-3.4,4
+maakond,Viljandi maakond,Viljandi maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1523.00,1724.00,88.3,-201.00,-3.4,4
+maakond,Viljandi maakond,Viljandi maakond,"Keskmine brutokuupalk, eurot",2021,1244.00,1474.00,84.4,-230.00,0.0,4
+maakond,Viljandi maakond,Viljandi maakond,"Keskmine brutokuupalk, eurot",2022,1374.00,1645.00,83.5,-271.00,-0.9,4
+maakond,Viljandi maakond,Viljandi maakond,"Keskmine brutokuupalk, eurot",2023,1515.00,1832.00,82.7,-317.00,-1.7,4
+maakond,Viljandi maakond,Viljandi maakond,"Keskmine brutokuupalk, eurot",2024,1637.00,1981.00,82.6,-344.00,-1.8,4
+maakond,Viljandi maakond,Viljandi maakond,"Keskmine brutokuupalk, eurot",2025,1723.00,2092.00,82.4,-369.00,-2.0,4
+maakond,Võru maakond,Võru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2021,991.00,1200.00,82.6,-209.00,0.0,13
+maakond,Võru maakond,Võru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2022,1098.00,1340.00,81.9,-242.00,-0.7,12
+maakond,Võru maakond,Võru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2023,1213.00,1501.00,80.8,-288.00,-1.8,12
+maakond,Võru maakond,Võru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2024,1300.00,1628.00,79.9,-328.00,-2.7,13
+maakond,Võru maakond,Võru maakond,"Brutokuupalga mediaan (V detsiil), eurot",2025,1392.00,1724.00,80.7,-332.00,-1.9,13
+maakond,Võru maakond,Võru maakond,"Keskmine brutokuupalk, eurot",2021,1160.00,1474.00,78.7,-314.00,0.0,11
+maakond,Võru maakond,Võru maakond,"Keskmine brutokuupalk, eurot",2022,1277.00,1645.00,77.6,-368.00,-1.1,11
+maakond,Võru maakond,Võru maakond,"Keskmine brutokuupalk, eurot",2023,1423.00,1832.00,77.7,-409.00,-1.0,10
+maakond,Võru maakond,Võru maakond,"Keskmine brutokuupalk, eurot",2024,1524.00,1981.00,76.9,-457.00,-1.8,12
+maakond,Võru maakond,Võru maakond,"Keskmine brutokuupalk, eurot",2025,1622.00,2092.00,77.5,-470.00,-1.2,11
+omavalitsus,Harju maakond,Anija vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1107.00,1200.00,92.3,-93.00,0.0,27
+omavalitsus,Harju maakond,Anija vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1230.00,1340.00,91.8,-110.00,-0.5,25
+omavalitsus,Harju maakond,Anija vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1281.00,1501.00,85.3,-220.00,-7.0,39
+omavalitsus,Harju maakond,Anija vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1386.00,1628.00,85.1,-242.00,-7.2,38
+omavalitsus,Harju maakond,Anija vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1467.00,1724.00,85.1,-257.00,-7.2,39
+omavalitsus,Harju maakond,Anija vald,"Keskmine brutokuupalk, eurot",2021,1246.00,1474.00,84.5,-228.00,0.0,30
+omavalitsus,Harju maakond,Anija vald,"Keskmine brutokuupalk, eurot",2022,1397.00,1645.00,84.9,-248.00,0.4,25
+omavalitsus,Harju maakond,Anija vald,"Keskmine brutokuupalk, eurot",2023,1446.00,1832.00,78.9,-386.00,-5.6,47
+omavalitsus,Harju maakond,Anija vald,"Keskmine brutokuupalk, eurot",2024,1584.00,1981.00,80.0,-397.00,-4.5,38
+omavalitsus,Harju maakond,Anija vald,"Keskmine brutokuupalk, eurot",2025,1663.00,2092.00,79.5,-429.00,-5.0,42
+omavalitsus,Harju maakond,Harku vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1215.00,1200.00,101.3,15.00,0.0,10
+omavalitsus,Harju maakond,Harku vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1352.00,1340.00,100.9,12.00,-0.4,8
+omavalitsus,Harju maakond,Harku vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1450.00,1501.00,96.6,-51.00,-4.7,10
+omavalitsus,Harju maakond,Harku vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1544.00,1628.00,94.8,-84.00,-6.5,10
+omavalitsus,Harju maakond,Harku vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1638.00,1724.00,95.0,-86.00,-6.3,9
+omavalitsus,Harju maakond,Harku vald,"Keskmine brutokuupalk, eurot",2021,1381.00,1474.00,93.7,-93.00,0.0,9
+omavalitsus,Harju maakond,Harku vald,"Keskmine brutokuupalk, eurot",2022,1515.00,1645.00,92.1,-130.00,-1.6,10
+omavalitsus,Harju maakond,Harku vald,"Keskmine brutokuupalk, eurot",2023,1635.00,1832.00,89.2,-197.00,-4.5,12
+omavalitsus,Harju maakond,Harku vald,"Keskmine brutokuupalk, eurot",2024,1733.00,1981.00,87.5,-248.00,-6.2,14
+omavalitsus,Harju maakond,Harku vald,"Keskmine brutokuupalk, eurot",2025,1845.00,2092.00,88.2,-247.00,-5.5,11
+omavalitsus,Harju maakond,Jõelähtme vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1207.00,1200.00,100.6,7.00,0.0,11
+omavalitsus,Harju maakond,Jõelähtme vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1308.00,1340.00,97.6,-32.00,-3.0,11
+omavalitsus,Harju maakond,Jõelähtme vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1417.00,1501.00,94.4,-84.00,-6.2,13
+omavalitsus,Harju maakond,Jõelähtme vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1489.00,1628.00,91.5,-139.00,-9.1,19
+omavalitsus,Harju maakond,Jõelähtme vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1595.00,1724.00,92.5,-129.00,-8.1,13
+omavalitsus,Harju maakond,Jõelähtme vald,"Keskmine brutokuupalk, eurot",2021,1409.00,1474.00,95.6,-65.00,0.0,7
+omavalitsus,Harju maakond,Jõelähtme vald,"Keskmine brutokuupalk, eurot",2022,1520.00,1645.00,92.4,-125.00,-3.2,9
+omavalitsus,Harju maakond,Jõelähtme vald,"Keskmine brutokuupalk, eurot",2023,1667.00,1832.00,91.0,-165.00,-4.6,10
+omavalitsus,Harju maakond,Jõelähtme vald,"Keskmine brutokuupalk, eurot",2024,1753.00,1981.00,88.5,-228.00,-7.1,11
+omavalitsus,Harju maakond,Jõelähtme vald,"Keskmine brutokuupalk, eurot",2025,1879.00,2092.00,89.8,-213.00,-5.8,10
+omavalitsus,Harju maakond,Keila linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1166.00,1200.00,97.2,-34.00,0.0,15
+omavalitsus,Harju maakond,Keila linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1262.00,1340.00,94.2,-78.00,-3.0,17
+omavalitsus,Harju maakond,Keila linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1352.00,1501.00,90.1,-149.00,-7.1,23
+omavalitsus,Harju maakond,Keila linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1490.00,1628.00,91.5,-138.00,-5.7,18
+omavalitsus,Harju maakond,Keila linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1553.00,1724.00,90.1,-171.00,-7.1,22
+omavalitsus,Harju maakond,Keila linn,"Keskmine brutokuupalk, eurot",2021,1341.00,1474.00,91.0,-133.00,0.0,13
+omavalitsus,Harju maakond,Keila linn,"Keskmine brutokuupalk, eurot",2022,1469.00,1645.00,89.3,-176.00,-1.7,13
+omavalitsus,Harju maakond,Keila linn,"Keskmine brutokuupalk, eurot",2023,1597.00,1832.00,87.2,-235.00,-3.8,15
+omavalitsus,Harju maakond,Keila linn,"Keskmine brutokuupalk, eurot",2024,1785.00,1981.00,90.1,-196.00,-0.9,10
+omavalitsus,Harju maakond,Keila linn,"Keskmine brutokuupalk, eurot",2025,1843.00,2092.00,88.1,-249.00,-2.9,13
+omavalitsus,Harju maakond,Kiili vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1200.00,1200.00,100.0,0.00,0.0,12
+omavalitsus,Harju maakond,Kiili vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1333.00,1340.00,99.5,-7.00,-0.5,10
+omavalitsus,Harju maakond,Kiili vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1480.00,1501.00,98.6,-21.00,-1.4,9
+omavalitsus,Harju maakond,Kiili vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1556.00,1628.00,95.6,-72.00,-4.4,9
+omavalitsus,Harju maakond,Kiili vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1571.00,1724.00,91.1,-153.00,-8.9,19
+omavalitsus,Harju maakond,Kiili vald,"Keskmine brutokuupalk, eurot",2021,1348.00,1474.00,91.5,-126.00,0.0,12
+omavalitsus,Harju maakond,Kiili vald,"Keskmine brutokuupalk, eurot",2022,1511.00,1645.00,91.9,-134.00,0.4,12
+omavalitsus,Harju maakond,Kiili vald,"Keskmine brutokuupalk, eurot",2023,1644.00,1832.00,89.7,-188.00,-1.8,11
+omavalitsus,Harju maakond,Kiili vald,"Keskmine brutokuupalk, eurot",2024,1727.00,1981.00,87.2,-254.00,-4.3,15
+omavalitsus,Harju maakond,Kiili vald,"Keskmine brutokuupalk, eurot",2025,1779.00,2092.00,85.0,-313.00,-6.5,22
+omavalitsus,Harju maakond,Kose vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1089.00,1200.00,90.8,-111.00,0.0,31
+omavalitsus,Harju maakond,Kose vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1184.00,1340.00,88.4,-156.00,-2.4,33
+omavalitsus,Harju maakond,Kose vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1308.00,1501.00,87.1,-193.00,-3.7,35
+omavalitsus,Harju maakond,Kose vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1395.00,1628.00,85.7,-233.00,-5.1,36
+omavalitsus,Harju maakond,Kose vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1500.00,1724.00,87.0,-224.00,-3.8,34
+omavalitsus,Harju maakond,Kose vald,"Keskmine brutokuupalk, eurot",2021,1242.00,1474.00,84.3,-232.00,0.0,31
+omavalitsus,Harju maakond,Kose vald,"Keskmine brutokuupalk, eurot",2022,1360.00,1645.00,82.7,-285.00,-1.6,30
+omavalitsus,Harju maakond,Kose vald,"Keskmine brutokuupalk, eurot",2023,1489.00,1832.00,81.3,-343.00,-3.0,35
+omavalitsus,Harju maakond,Kose vald,"Keskmine brutokuupalk, eurot",2024,1589.00,1981.00,80.2,-392.00,-4.1,37
+omavalitsus,Harju maakond,Kose vald,"Keskmine brutokuupalk, eurot",2025,1688.00,2092.00,80.7,-404.00,-3.6,35
+omavalitsus,Harju maakond,Kuusalu vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1051.00,1200.00,87.6,-149.00,0.0,37
+omavalitsus,Harju maakond,Kuusalu vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1183.00,1340.00,88.3,-157.00,0.7,34
+omavalitsus,Harju maakond,Kuusalu vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1273.00,1501.00,84.8,-228.00,-2.8,43
+omavalitsus,Harju maakond,Kuusalu vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1379.00,1628.00,84.7,-249.00,-2.9,40
+omavalitsus,Harju maakond,Kuusalu vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1450.00,1724.00,84.1,-274.00,-3.5,45
+omavalitsus,Harju maakond,Kuusalu vald,"Keskmine brutokuupalk, eurot",2021,1214.00,1474.00,82.4,-260.00,0.0,37
+omavalitsus,Harju maakond,Kuusalu vald,"Keskmine brutokuupalk, eurot",2022,1345.00,1645.00,81.8,-300.00,-0.6,33
+omavalitsus,Harju maakond,Kuusalu vald,"Keskmine brutokuupalk, eurot",2023,1488.00,1832.00,81.2,-344.00,-1.2,36
+omavalitsus,Harju maakond,Kuusalu vald,"Keskmine brutokuupalk, eurot",2024,1575.00,1981.00,79.5,-406.00,-2.9,41
+omavalitsus,Harju maakond,Kuusalu vald,"Keskmine brutokuupalk, eurot",2025,1668.00,2092.00,79.7,-424.00,-2.7,40
+omavalitsus,Harju maakond,Loksa linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,835.00,1200.00,69.6,-365.00,0.0,75
+omavalitsus,Harju maakond,Loksa linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,884.00,1340.00,66.0,-456.00,-3.6,79
+omavalitsus,Harju maakond,Loksa linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,953.00,1501.00,63.5,-548.00,-6.1,79
+omavalitsus,Harju maakond,Loksa linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1051.00,1628.00,64.6,-577.00,-5.0,79
+omavalitsus,Harju maakond,Loksa linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1145.00,1724.00,66.4,-579.00,-3.2,79
+omavalitsus,Harju maakond,Loksa linn,"Keskmine brutokuupalk, eurot",2021,961.00,1474.00,65.2,-513.00,0.0,78
+omavalitsus,Harju maakond,Loksa linn,"Keskmine brutokuupalk, eurot",2022,1035.00,1645.00,62.9,-610.00,-2.3,79
+omavalitsus,Harju maakond,Loksa linn,"Keskmine brutokuupalk, eurot",2023,1158.00,1832.00,63.2,-674.00,-2.0,78
+omavalitsus,Harju maakond,Loksa linn,"Keskmine brutokuupalk, eurot",2024,1280.00,1981.00,64.6,-701.00,-0.6,78
+omavalitsus,Harju maakond,Loksa linn,"Keskmine brutokuupalk, eurot",2025,1351.00,2092.00,64.6,-741.00,-0.6,78
+omavalitsus,Harju maakond,Lääne-Harju vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1131.00,1200.00,94.3,-69.00,0.0,19
+omavalitsus,Harju maakond,Lääne-Harju vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1236.00,1340.00,92.2,-104.00,-2.1,22
+omavalitsus,Harju maakond,Lääne-Harju vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1353.00,1501.00,90.1,-148.00,-4.2,22
+omavalitsus,Harju maakond,Lääne-Harju vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1462.00,1628.00,89.8,-166.00,-4.5,24
+omavalitsus,Harju maakond,Lääne-Harju vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1534.00,1724.00,89.0,-190.00,-5.3,27
+omavalitsus,Harju maakond,Lääne-Harju vald,"Keskmine brutokuupalk, eurot",2021,1293.00,1474.00,87.7,-181.00,0.0,18
+omavalitsus,Harju maakond,Lääne-Harju vald,"Keskmine brutokuupalk, eurot",2022,1439.00,1645.00,87.5,-206.00,-0.2,16
+omavalitsus,Harju maakond,Lääne-Harju vald,"Keskmine brutokuupalk, eurot",2023,1597.00,1832.00,87.2,-235.00,-0.5,15
+omavalitsus,Harju maakond,Lääne-Harju vald,"Keskmine brutokuupalk, eurot",2024,1726.00,1981.00,87.1,-255.00,-0.6,16
+omavalitsus,Harju maakond,Lääne-Harju vald,"Keskmine brutokuupalk, eurot",2025,1787.00,2092.00,85.4,-305.00,-2.3,19
+omavalitsus,Harju maakond,Maardu linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1119.00,1200.00,93.3,-81.00,0.0,24
+omavalitsus,Harju maakond,Maardu linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1257.00,1340.00,93.8,-83.00,0.5,18
+omavalitsus,Harju maakond,Maardu linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1351.00,1501.00,90.0,-150.00,-3.3,24
+omavalitsus,Harju maakond,Maardu linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1429.00,1628.00,87.8,-199.00,-5.5,29
+omavalitsus,Harju maakond,Maardu linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1503.00,1724.00,87.2,-221.00,-6.1,32
+omavalitsus,Harju maakond,Maardu linn,"Keskmine brutokuupalk, eurot",2021,1307.00,1474.00,88.7,-167.00,0.0,15
+omavalitsus,Harju maakond,Maardu linn,"Keskmine brutokuupalk, eurot",2022,1453.00,1645.00,88.3,-192.00,-0.4,14
+omavalitsus,Harju maakond,Maardu linn,"Keskmine brutokuupalk, eurot",2023,1567.00,1832.00,85.5,-265.00,-3.2,20
+omavalitsus,Harju maakond,Maardu linn,"Keskmine brutokuupalk, eurot",2024,1664.00,1981.00,84.0,-317.00,-4.7,25
+omavalitsus,Harju maakond,Maardu linn,"Keskmine brutokuupalk, eurot",2025,1767.00,2092.00,84.5,-325.00,-4.2,23
+omavalitsus,Harju maakond,Raasiku vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1125.00,1200.00,93.8,-75.00,0.0,22
+omavalitsus,Harju maakond,Raasiku vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1244.00,1340.00,92.8,-96.00,-1.0,21
+omavalitsus,Harju maakond,Raasiku vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1411.00,1501.00,94.0,-90.00,0.2,14
+omavalitsus,Harju maakond,Raasiku vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1523.00,1628.00,93.6,-105.00,-0.2,12
+omavalitsus,Harju maakond,Raasiku vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1593.00,1724.00,92.4,-131.00,-1.4,15
+omavalitsus,Harju maakond,Raasiku vald,"Keskmine brutokuupalk, eurot",2021,1289.00,1474.00,87.4,-185.00,0.0,20
+omavalitsus,Harju maakond,Raasiku vald,"Keskmine brutokuupalk, eurot",2022,1424.00,1645.00,86.6,-221.00,-0.8,18
+omavalitsus,Harju maakond,Raasiku vald,"Keskmine brutokuupalk, eurot",2023,1612.00,1832.00,88.0,-220.00,0.6,13
+omavalitsus,Harju maakond,Raasiku vald,"Keskmine brutokuupalk, eurot",2024,1752.00,1981.00,88.4,-229.00,1.0,12
+omavalitsus,Harju maakond,Raasiku vald,"Keskmine brutokuupalk, eurot",2025,1844.00,2092.00,88.1,-248.00,0.7,12
+omavalitsus,Harju maakond,Rae vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1396.00,1200.00,116.3,196.00,0.0,1
+omavalitsus,Harju maakond,Rae vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1539.00,1340.00,114.9,199.00,-1.4,2
+omavalitsus,Harju maakond,Rae vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1695.00,1501.00,112.9,194.00,-3.4,2
+omavalitsus,Harju maakond,Rae vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1798.00,1628.00,110.4,170.00,-5.9,2
+omavalitsus,Harju maakond,Rae vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1905.00,1724.00,110.5,181.00,-5.8,3
+omavalitsus,Harju maakond,Rae vald,"Keskmine brutokuupalk, eurot",2021,1634.00,1474.00,110.9,160.00,0.0,2
+omavalitsus,Harju maakond,Rae vald,"Keskmine brutokuupalk, eurot",2022,1801.00,1645.00,109.5,156.00,-1.4,2
+omavalitsus,Harju maakond,Rae vald,"Keskmine brutokuupalk, eurot",2023,1961.00,1832.00,107.0,129.00,-3.9,2
+omavalitsus,Harju maakond,Rae vald,"Keskmine brutokuupalk, eurot",2024,2082.00,1981.00,105.1,101.00,-5.8,3
+omavalitsus,Harju maakond,Rae vald,"Keskmine brutokuupalk, eurot",2025,2191.00,2092.00,104.7,99.00,-6.2,3
+omavalitsus,Harju maakond,Saku vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1332.00,1200.00,111.0,132.00,0.0,4
+omavalitsus,Harju maakond,Saku vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1454.00,1340.00,108.5,114.00,-2.5,5
+omavalitsus,Harju maakond,Saku vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1632.00,1501.00,108.7,131.00,-2.3,5
+omavalitsus,Harju maakond,Saku vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1724.00,1628.00,105.9,96.00,-5.1,6
+omavalitsus,Harju maakond,Saku vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1811.00,1724.00,105.0,87.00,-6.0,5
+omavalitsus,Harju maakond,Saku vald,"Keskmine brutokuupalk, eurot",2021,1566.00,1474.00,106.2,92.00,0.0,3
+omavalitsus,Harju maakond,Saku vald,"Keskmine brutokuupalk, eurot",2022,1717.00,1645.00,104.4,72.00,-1.8,4
+omavalitsus,Harju maakond,Saku vald,"Keskmine brutokuupalk, eurot",2023,1879.00,1832.00,102.6,47.00,-3.6,5
+omavalitsus,Harju maakond,Saku vald,"Keskmine brutokuupalk, eurot",2024,1983.00,1981.00,100.1,2.00,-6.1,5
+omavalitsus,Harju maakond,Saku vald,"Keskmine brutokuupalk, eurot",2025,2073.00,2092.00,99.1,-19.00,-7.1,5
+omavalitsus,Harju maakond,Saue vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1257.00,1200.00,104.8,57.00,0.0,7
+omavalitsus,Harju maakond,Saue vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1388.00,1340.00,103.6,48.00,-1.2,7
+omavalitsus,Harju maakond,Saue vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1532.00,1501.00,102.1,31.00,-2.7,7
+omavalitsus,Harju maakond,Saue vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1655.00,1628.00,101.7,27.00,-3.1,7
+omavalitsus,Harju maakond,Saue vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1758.00,1724.00,102.0,34.00,-2.8,7
+omavalitsus,Harju maakond,Saue vald,"Keskmine brutokuupalk, eurot",2021,1433.00,1474.00,97.2,-41.00,0.0,6
+omavalitsus,Harju maakond,Saue vald,"Keskmine brutokuupalk, eurot",2022,1576.00,1645.00,95.8,-69.00,-1.4,7
+omavalitsus,Harju maakond,Saue vald,"Keskmine brutokuupalk, eurot",2023,1733.00,1832.00,94.6,-99.00,-2.6,7
+omavalitsus,Harju maakond,Saue vald,"Keskmine brutokuupalk, eurot",2024,1875.00,1981.00,94.6,-106.00,-2.6,6
+omavalitsus,Harju maakond,Saue vald,"Keskmine brutokuupalk, eurot",2025,1977.00,2092.00,94.5,-115.00,-2.7,6
+omavalitsus,Harju maakond,Tallinn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1378.00,1200.00,114.8,178.00,0.0,2
+omavalitsus,Harju maakond,Tallinn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1543.00,1340.00,115.1,203.00,0.3,1
+omavalitsus,Harju maakond,Tallinn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1749.00,1501.00,116.5,248.00,1.7,1
+omavalitsus,Harju maakond,Tallinn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1896.00,1628.00,116.5,268.00,1.7,1
+omavalitsus,Harju maakond,Tallinn,"Brutokuupalga mediaan (V detsiil), eurot",2025,2000.00,1724.00,116.0,276.00,1.2,1
+omavalitsus,Harju maakond,Tallinn,"Keskmine brutokuupalk, eurot",2021,1724.00,1474.00,117.0,250.00,0.0,1
+omavalitsus,Harju maakond,Tallinn,"Keskmine brutokuupalk, eurot",2022,1935.00,1645.00,117.6,290.00,0.6,1
+omavalitsus,Harju maakond,Tallinn,"Keskmine brutokuupalk, eurot",2023,2152.00,1832.00,117.5,320.00,0.5,1
+omavalitsus,Harju maakond,Tallinn,"Keskmine brutokuupalk, eurot",2024,2325.00,1981.00,117.4,344.00,0.4,1
+omavalitsus,Harju maakond,Tallinn,"Keskmine brutokuupalk, eurot",2025,2451.00,2092.00,117.2,359.00,0.2,1
+omavalitsus,Harju maakond,Viimsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1190.00,1200.00,99.2,-10.00,0.0,13
+omavalitsus,Harju maakond,Viimsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1297.00,1340.00,96.8,-43.00,-2.4,12
+omavalitsus,Harju maakond,Viimsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1429.00,1501.00,95.2,-72.00,-4.0,12
+omavalitsus,Harju maakond,Viimsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1518.00,1628.00,93.2,-110.00,-6.0,13
+omavalitsus,Harju maakond,Viimsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1624.00,1724.00,94.2,-100.00,-5.0,10
+omavalitsus,Harju maakond,Viimsi vald,"Keskmine brutokuupalk, eurot",2021,1380.00,1474.00,93.6,-94.00,0.0,10
+omavalitsus,Harju maakond,Viimsi vald,"Keskmine brutokuupalk, eurot",2022,1514.00,1645.00,92.0,-131.00,-1.6,11
+omavalitsus,Harju maakond,Viimsi vald,"Keskmine brutokuupalk, eurot",2023,1690.00,1832.00,92.2,-142.00,-1.4,9
+omavalitsus,Harju maakond,Viimsi vald,"Keskmine brutokuupalk, eurot",2024,1808.00,1981.00,91.3,-173.00,-2.3,9
+omavalitsus,Harju maakond,Viimsi vald,"Keskmine brutokuupalk, eurot",2025,1906.00,2092.00,91.1,-186.00,-2.5,8
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1005.00,1200.00,83.8,-195.00,0.0,52
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1128.00,1340.00,84.2,-212.00,0.4,49
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1253.00,1501.00,83.5,-248.00,-0.3,48
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1373.00,1628.00,84.3,-255.00,0.5,42
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1438.00,1724.00,83.4,-286.00,-0.4,49
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Keskmine brutokuupalk, eurot",2021,1154.00,1474.00,78.3,-320.00,0.0,52
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Keskmine brutokuupalk, eurot",2022,1259.00,1645.00,76.5,-386.00,-1.8,56
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Keskmine brutokuupalk, eurot",2023,1398.00,1832.00,76.3,-434.00,-2.0,56
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Keskmine brutokuupalk, eurot",2024,1537.00,1981.00,77.6,-444.00,-0.7,49
+omavalitsus,Hiiu maakond,Hiiumaa vald,"Keskmine brutokuupalk, eurot",2025,1613.00,2092.00,77.1,-479.00,-1.2,52
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1362.00,1200.00,113.5,162.00,0.0,3
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1490.00,1340.00,111.2,150.00,-2.3,3
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1686.00,1501.00,112.3,185.00,-1.2,3
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1790.00,1628.00,110.0,162.00,-3.5,3
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1915.00,1724.00,111.1,191.00,-2.4,2
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Keskmine brutokuupalk, eurot",2021,1547.00,1474.00,105.0,73.00,0.0,4
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Keskmine brutokuupalk, eurot",2022,1701.00,1645.00,103.4,56.00,-1.6,5
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Keskmine brutokuupalk, eurot",2023,1884.00,1832.00,102.8,52.00,-2.2,4
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Keskmine brutokuupalk, eurot",2024,1988.00,1981.00,100.4,7.00,-4.6,4
+omavalitsus,Ida-Viru maakond,Alutaguse vald,"Keskmine brutokuupalk, eurot",2025,2106.00,2092.00,100.7,14.00,-4.3,4
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,982.00,1200.00,81.8,-218.00,0.0,62
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1072.00,1340.00,80.0,-268.00,-1.8,59
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1181.00,1501.00,78.7,-320.00,-3.1,62
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1287.00,1628.00,79.1,-341.00,-2.7,62
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1365.00,1724.00,79.2,-359.00,-2.6,63
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Keskmine brutokuupalk, eurot",2021,1179.00,1474.00,80.0,-295.00,0.0,47
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Keskmine brutokuupalk, eurot",2022,1301.00,1645.00,79.1,-344.00,-0.9,46
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Keskmine brutokuupalk, eurot",2023,1447.00,1832.00,79.0,-385.00,-1.0,45
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Keskmine brutokuupalk, eurot",2024,1579.00,1981.00,79.7,-402.00,-0.3,40
+omavalitsus,Ida-Viru maakond,Jõhvi vald,"Keskmine brutokuupalk, eurot",2025,1668.00,2092.00,79.7,-424.00,-0.3,40
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,950.00,1200.00,79.2,-250.00,0.0,66
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1045.00,1340.00,78.0,-295.00,-1.2,65
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1190.00,1501.00,79.3,-311.00,0.1,60
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1312.00,1628.00,80.6,-316.00,1.4,54
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1406.00,1724.00,81.6,-318.00,2.4,52
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Keskmine brutokuupalk, eurot",2021,1177.00,1474.00,79.9,-297.00,0.0,48
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Keskmine brutokuupalk, eurot",2022,1287.00,1645.00,78.2,-358.00,-1.7,49
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Keskmine brutokuupalk, eurot",2023,1464.00,1832.00,79.9,-368.00,0.0,42
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Keskmine brutokuupalk, eurot",2024,1632.00,1981.00,82.4,-349.00,2.5,28
+omavalitsus,Ida-Viru maakond,Kohtla-Järve linn,"Keskmine brutokuupalk, eurot",2025,1726.00,2092.00,82.5,-366.00,2.6,29
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,904.00,1200.00,75.3,-296.00,0.0,71
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,972.00,1340.00,72.5,-368.00,-2.8,74
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1110.00,1501.00,74.0,-391.00,-1.3,72
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1243.00,1628.00,76.4,-385.00,1.1,67
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1326.00,1724.00,76.9,-398.00,1.6,68
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Keskmine brutokuupalk, eurot",2021,1049.00,1474.00,71.2,-425.00,0.0,71
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Keskmine brutokuupalk, eurot",2022,1122.00,1645.00,68.2,-523.00,-3.0,75
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Keskmine brutokuupalk, eurot",2023,1284.00,1832.00,70.1,-548.00,-1.1,73
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Keskmine brutokuupalk, eurot",2024,1436.00,1981.00,72.5,-545.00,1.3,68
+omavalitsus,Ida-Viru maakond,Lüganuse vald,"Keskmine brutokuupalk, eurot",2025,1535.00,2092.00,73.4,-557.00,2.2,68
+omavalitsus,Ida-Viru maakond,Narva linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,804.00,1200.00,67.0,-396.00,0.0,79
+omavalitsus,Ida-Viru maakond,Narva linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,910.00,1340.00,67.9,-430.00,0.9,76
+omavalitsus,Ida-Viru maakond,Narva linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1036.00,1501.00,69.0,-465.00,2.0,76
+omavalitsus,Ida-Viru maakond,Narva linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1146.00,1628.00,70.4,-482.00,3.4,76
+omavalitsus,Ida-Viru maakond,Narva linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1229.00,1724.00,71.3,-495.00,4.3,74
+omavalitsus,Ida-Viru maakond,Narva linn,"Keskmine brutokuupalk, eurot",2021,1033.00,1474.00,70.1,-441.00,0.0,74
+omavalitsus,Ida-Viru maakond,Narva linn,"Keskmine brutokuupalk, eurot",2022,1158.00,1645.00,70.4,-487.00,0.3,73
+omavalitsus,Ida-Viru maakond,Narva linn,"Keskmine brutokuupalk, eurot",2023,1311.00,1832.00,71.6,-521.00,1.5,71
+omavalitsus,Ida-Viru maakond,Narva linn,"Keskmine brutokuupalk, eurot",2024,1450.00,1981.00,73.2,-531.00,3.1,67
+omavalitsus,Ida-Viru maakond,Narva linn,"Keskmine brutokuupalk, eurot",2025,1546.00,2092.00,73.9,-546.00,3.8,66
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1300.00,1200.00,108.3,100.00,0.0,5
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1472.00,1340.00,109.9,132.00,1.6,4
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1640.00,1501.00,109.3,139.00,1.0,4
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1746.00,1628.00,107.2,118.00,-1.1,5
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1778.00,1724.00,103.1,54.00,-5.2,6
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Keskmine brutokuupalk, eurot",2021,1377.00,1474.00,93.4,-97.00,0.0,11
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Keskmine brutokuupalk, eurot",2022,1588.00,1645.00,96.5,-57.00,3.1,6
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Keskmine brutokuupalk, eurot",2023,1765.00,1832.00,96.3,-67.00,2.9,6
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Keskmine brutokuupalk, eurot",2024,1860.00,1981.00,93.9,-121.00,0.5,7
+omavalitsus,Ida-Viru maakond,Narva-Jõesuu linn,"Keskmine brutokuupalk, eurot",2025,1884.00,2092.00,90.1,-208.00,-3.3,9
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,987.00,1200.00,82.3,-213.00,0.0,58
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1068.00,1340.00,79.7,-272.00,-2.6,60
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1186.00,1501.00,79.0,-315.00,-3.3,61
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1297.00,1628.00,79.7,-331.00,-2.6,59
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1400.00,1724.00,81.2,-324.00,-1.1,53
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Keskmine brutokuupalk, eurot",2021,1142.00,1474.00,77.5,-332.00,0.0,59
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Keskmine brutokuupalk, eurot",2022,1237.00,1645.00,75.2,-408.00,-2.3,61
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Keskmine brutokuupalk, eurot",2023,1386.00,1832.00,75.7,-446.00,-1.8,61
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Keskmine brutokuupalk, eurot",2024,1537.00,1981.00,77.6,-444.00,0.1,49
+omavalitsus,Ida-Viru maakond,Sillamäe linn,"Keskmine brutokuupalk, eurot",2025,1647.00,2092.00,78.7,-445.00,1.2,46
+omavalitsus,Ida-Viru maakond,Toila vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,833.00,1200.00,69.4,-367.00,0.0,76
+omavalitsus,Ida-Viru maakond,Toila vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,962.00,1340.00,71.8,-378.00,2.4,75
+omavalitsus,Ida-Viru maakond,Toila vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1067.00,1501.00,71.1,-434.00,1.7,75
+omavalitsus,Ida-Viru maakond,Toila vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1147.00,1628.00,70.5,-481.00,1.1,75
+omavalitsus,Ida-Viru maakond,Toila vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1223.00,1724.00,70.9,-501.00,1.5,75
+omavalitsus,Ida-Viru maakond,Toila vald,"Keskmine brutokuupalk, eurot",2021,969.00,1474.00,65.7,-505.00,0.0,77
+omavalitsus,Ida-Viru maakond,Toila vald,"Keskmine brutokuupalk, eurot",2022,1123.00,1645.00,68.3,-522.00,2.6,74
+omavalitsus,Ida-Viru maakond,Toila vald,"Keskmine brutokuupalk, eurot",2023,1279.00,1832.00,69.8,-553.00,4.1,74
+omavalitsus,Ida-Viru maakond,Toila vald,"Keskmine brutokuupalk, eurot",2024,1386.00,1981.00,70.0,-595.00,4.3,74
+omavalitsus,Ida-Viru maakond,Toila vald,"Keskmine brutokuupalk, eurot",2025,1485.00,2092.00,71.0,-607.00,5.3,74
+omavalitsus,Järva maakond,Järva vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1090.00,1200.00,90.8,-110.00,0.0,30
+omavalitsus,Järva maakond,Järva vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1200.00,1340.00,89.6,-140.00,-1.2,31
+omavalitsus,Järva maakond,Järva vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1330.00,1501.00,88.6,-171.00,-2.2,32
+omavalitsus,Järva maakond,Järva vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1467.00,1628.00,90.1,-161.00,-0.7,22
+omavalitsus,Järva maakond,Järva vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1536.00,1724.00,89.1,-188.00,-1.7,26
+omavalitsus,Järva maakond,Järva vald,"Keskmine brutokuupalk, eurot",2021,1269.00,1474.00,86.1,-205.00,0.0,26
+omavalitsus,Järva maakond,Järva vald,"Keskmine brutokuupalk, eurot",2022,1377.00,1645.00,83.7,-268.00,-2.4,29
+omavalitsus,Järva maakond,Järva vald,"Keskmine brutokuupalk, eurot",2023,1506.00,1832.00,82.2,-326.00,-3.9,29
+omavalitsus,Järva maakond,Järva vald,"Keskmine brutokuupalk, eurot",2024,1647.00,1981.00,83.1,-334.00,-3.0,26
+omavalitsus,Järva maakond,Järva vald,"Keskmine brutokuupalk, eurot",2025,1738.00,2092.00,83.1,-354.00,-3.0,26
+omavalitsus,Järva maakond,Paide linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1133.00,1200.00,94.4,-67.00,0.0,18
+omavalitsus,Järva maakond,Paide linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1252.00,1340.00,93.4,-88.00,-1.0,20
+omavalitsus,Järva maakond,Paide linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1400.00,1501.00,93.3,-101.00,-1.1,16
+omavalitsus,Järva maakond,Paide linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1494.00,1628.00,91.8,-134.00,-2.6,15
+omavalitsus,Järva maakond,Paide linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1603.00,1724.00,93.0,-121.00,-1.4,12
+omavalitsus,Järva maakond,Paide linn,"Keskmine brutokuupalk, eurot",2021,1302.00,1474.00,88.3,-172.00,0.0,17
+omavalitsus,Järva maakond,Paide linn,"Keskmine brutokuupalk, eurot",2022,1419.00,1645.00,86.3,-226.00,-2.0,21
+omavalitsus,Järva maakond,Paide linn,"Keskmine brutokuupalk, eurot",2023,1568.00,1832.00,85.6,-264.00,-2.7,19
+omavalitsus,Järva maakond,Paide linn,"Keskmine brutokuupalk, eurot",2024,1682.00,1981.00,84.9,-299.00,-3.4,19
+omavalitsus,Järva maakond,Paide linn,"Keskmine brutokuupalk, eurot",2025,1794.00,2092.00,85.8,-298.00,-2.5,18
+omavalitsus,Järva maakond,Türi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1036.00,1200.00,86.3,-164.00,0.0,43
+omavalitsus,Järva maakond,Türi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1144.00,1340.00,85.4,-196.00,-0.9,46
+omavalitsus,Järva maakond,Türi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1266.00,1501.00,84.3,-235.00,-2.0,46
+omavalitsus,Järva maakond,Türi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1411.00,1628.00,86.7,-217.00,0.4,32
+omavalitsus,Järva maakond,Türi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1490.00,1724.00,86.4,-234.00,0.1,36
+omavalitsus,Järva maakond,Türi vald,"Keskmine brutokuupalk, eurot",2021,1208.00,1474.00,82.0,-266.00,0.0,40
+omavalitsus,Järva maakond,Türi vald,"Keskmine brutokuupalk, eurot",2022,1322.00,1645.00,80.4,-323.00,-1.6,40
+omavalitsus,Järva maakond,Türi vald,"Keskmine brutokuupalk, eurot",2023,1480.00,1832.00,80.8,-352.00,-1.2,39
+omavalitsus,Järva maakond,Türi vald,"Keskmine brutokuupalk, eurot",2024,1594.00,1981.00,80.5,-387.00,-1.5,33
+omavalitsus,Järva maakond,Türi vald,"Keskmine brutokuupalk, eurot",2025,1681.00,2092.00,80.4,-411.00,-1.6,37
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1045.00,1200.00,87.1,-155.00,0.0,40
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1170.00,1340.00,87.3,-170.00,0.2,37
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1310.00,1501.00,87.3,-191.00,0.2,34
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1402.00,1628.00,86.1,-226.00,-1.0,33
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1501.00,1724.00,87.1,-223.00,0.0,33
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Keskmine brutokuupalk, eurot",2021,1197.00,1474.00,81.2,-277.00,0.0,42
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Keskmine brutokuupalk, eurot",2022,1335.00,1645.00,81.2,-310.00,0.0,36
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Keskmine brutokuupalk, eurot",2023,1500.00,1832.00,81.9,-332.00,0.7,32
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Keskmine brutokuupalk, eurot",2024,1610.00,1981.00,81.3,-371.00,0.1,31
+omavalitsus,Jõgeva maakond,Jõgeva vald,"Keskmine brutokuupalk, eurot",2025,1708.00,2092.00,81.6,-384.00,0.4,33
+omavalitsus,Jõgeva maakond,Mustvee vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,821.00,1200.00,68.4,-379.00,0.0,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,908.00,1340.00,67.8,-432.00,-0.6,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1007.00,1501.00,67.1,-494.00,-1.3,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1100.00,1628.00,67.6,-528.00,-0.8,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1200.00,1724.00,69.6,-524.00,1.2,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Keskmine brutokuupalk, eurot",2021,1025.00,1474.00,69.5,-449.00,0.0,75
+omavalitsus,Jõgeva maakond,Mustvee vald,"Keskmine brutokuupalk, eurot",2022,1094.00,1645.00,66.5,-551.00,-3.0,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Keskmine brutokuupalk, eurot",2023,1226.00,1832.00,66.9,-606.00,-2.6,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Keskmine brutokuupalk, eurot",2024,1350.00,1981.00,68.1,-631.00,-1.4,77
+omavalitsus,Jõgeva maakond,Mustvee vald,"Keskmine brutokuupalk, eurot",2025,1445.00,2092.00,69.1,-647.00,-0.4,75
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1037.00,1200.00,86.4,-163.00,0.0,42
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1167.00,1340.00,87.1,-173.00,0.7,38
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1266.00,1501.00,84.3,-235.00,-2.1,46
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1399.00,1628.00,85.9,-229.00,-0.5,35
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1457.00,1724.00,84.5,-267.00,-1.9,41
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Keskmine brutokuupalk, eurot",2021,1182.00,1474.00,80.2,-292.00,0.0,46
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Keskmine brutokuupalk, eurot",2022,1297.00,1645.00,78.8,-348.00,-1.4,47
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Keskmine brutokuupalk, eurot",2023,1404.00,1832.00,76.6,-428.00,-3.6,54
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Keskmine brutokuupalk, eurot",2024,1547.00,1981.00,78.1,-434.00,-2.1,46
+omavalitsus,Jõgeva maakond,Põltsamaa vald,"Keskmine brutokuupalk, eurot",2025,1614.00,2092.00,77.2,-478.00,-3.0,51
+omavalitsus,Lääne maakond,Haapsalu linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1054.00,1200.00,87.8,-146.00,0.0,36
+omavalitsus,Lääne maakond,Haapsalu linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1167.00,1340.00,87.1,-173.00,-0.7,38
+omavalitsus,Lääne maakond,Haapsalu linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1279.00,1501.00,85.2,-222.00,-2.6,41
+omavalitsus,Lääne maakond,Haapsalu linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1353.00,1628.00,83.1,-275.00,-4.7,48
+omavalitsus,Lääne maakond,Haapsalu linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1439.00,1724.00,83.5,-285.00,-4.3,48
+omavalitsus,Lääne maakond,Haapsalu linn,"Keskmine brutokuupalk, eurot",2021,1197.00,1474.00,81.2,-277.00,0.0,42
+omavalitsus,Lääne maakond,Haapsalu linn,"Keskmine brutokuupalk, eurot",2022,1314.00,1645.00,79.9,-331.00,-1.3,42
+omavalitsus,Lääne maakond,Haapsalu linn,"Keskmine brutokuupalk, eurot",2023,1447.00,1832.00,79.0,-385.00,-2.2,45
+omavalitsus,Lääne maakond,Haapsalu linn,"Keskmine brutokuupalk, eurot",2024,1543.00,1981.00,77.9,-438.00,-3.3,47
+omavalitsus,Lääne maakond,Haapsalu linn,"Keskmine brutokuupalk, eurot",2025,1628.00,2092.00,77.8,-464.00,-3.4,48
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1032.00,1200.00,86.0,-168.00,0.0,44
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1152.00,1340.00,86.0,-188.00,0.0,44
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1207.00,1501.00,80.4,-294.00,-5.6,59
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1292.00,1628.00,79.4,-336.00,-6.6,61
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1370.00,1724.00,79.5,-354.00,-6.5,62
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Keskmine brutokuupalk, eurot",2021,1141.00,1474.00,77.4,-333.00,0.0,60
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Keskmine brutokuupalk, eurot",2022,1254.00,1645.00,76.2,-391.00,-1.2,58
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Keskmine brutokuupalk, eurot",2023,1336.00,1832.00,72.9,-496.00,-4.5,68
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Keskmine brutokuupalk, eurot",2024,1428.00,1981.00,72.1,-553.00,-5.3,70
+omavalitsus,Lääne maakond,Lääne-Nigula vald,"Keskmine brutokuupalk, eurot",2025,1535.00,2092.00,73.4,-557.00,-4.0,68
+omavalitsus,Lääne maakond,Vormsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1030.00,1200.00,85.8,-170.00,0.0,45
+omavalitsus,Lääne maakond,Vormsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1205.00,1340.00,89.9,-135.00,4.1,28
+omavalitsus,Lääne maakond,Vormsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1320.00,1501.00,87.9,-181.00,2.1,33
+omavalitsus,Lääne maakond,Vormsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1400.00,1628.00,86.0,-228.00,0.2,34
+omavalitsus,Lääne maakond,Vormsi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1570.00,1724.00,91.1,-154.00,5.3,20
+omavalitsus,Lääne maakond,Vormsi vald,"Keskmine brutokuupalk, eurot",2021,1141.00,1474.00,77.4,-333.00,0.0,60
+omavalitsus,Lääne maakond,Vormsi vald,"Keskmine brutokuupalk, eurot",2022,1326.00,1645.00,80.6,-319.00,3.2,39
+omavalitsus,Lääne maakond,Vormsi vald,"Keskmine brutokuupalk, eurot",2023,1555.00,1832.00,84.9,-277.00,7.5,25
+omavalitsus,Lääne maakond,Vormsi vald,"Keskmine brutokuupalk, eurot",2024,1555.00,1981.00,78.5,-426.00,1.1,44
+omavalitsus,Lääne maakond,Vormsi vald,"Keskmine brutokuupalk, eurot",2025,1735.00,2092.00,82.9,-357.00,5.5,27
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1100.00,1200.00,91.7,-100.00,0.0,28
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1203.00,1340.00,89.8,-137.00,-1.9,29
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1333.00,1501.00,88.8,-168.00,-2.9,31
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1372.00,1628.00,84.3,-256.00,-7.4,44
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1484.00,1724.00,86.1,-240.00,-5.6,37
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Keskmine brutokuupalk, eurot",2021,1247.00,1474.00,84.6,-227.00,0.0,29
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Keskmine brutokuupalk, eurot",2022,1348.00,1645.00,81.9,-297.00,-2.7,32
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Keskmine brutokuupalk, eurot",2023,1492.00,1832.00,81.4,-340.00,-3.2,34
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Keskmine brutokuupalk, eurot",2024,1553.00,1981.00,78.4,-428.00,-6.2,45
+omavalitsus,Lääne-Viru maakond,Haljala vald,"Keskmine brutokuupalk, eurot",2025,1647.00,2092.00,78.7,-445.00,-5.9,46
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1077.00,1200.00,89.8,-123.00,0.0,34
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1232.00,1340.00,91.9,-108.00,2.1,24
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1371.00,1501.00,91.3,-130.00,1.5,20
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1491.00,1628.00,91.6,-137.00,1.8,17
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1565.00,1724.00,90.8,-159.00,1.0,21
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Keskmine brutokuupalk, eurot",2021,1269.00,1474.00,86.1,-205.00,0.0,26
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Keskmine brutokuupalk, eurot",2022,1414.00,1645.00,86.0,-231.00,-0.1,23
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Keskmine brutokuupalk, eurot",2023,1548.00,1832.00,84.5,-284.00,-1.6,26
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Keskmine brutokuupalk, eurot",2024,1672.00,1981.00,84.4,-309.00,-1.7,23
+omavalitsus,Lääne-Viru maakond,Kadrina vald,"Keskmine brutokuupalk, eurot",2025,1748.00,2092.00,83.6,-344.00,-2.5,25
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1009.00,1200.00,84.1,-191.00,0.0,51
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1147.00,1340.00,85.6,-193.00,1.5,45
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1270.00,1501.00,84.6,-231.00,0.5,44
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1368.00,1628.00,84.0,-260.00,-0.1,47
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1460.00,1724.00,84.7,-264.00,0.6,40
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Keskmine brutokuupalk, eurot",2021,1203.00,1474.00,81.6,-271.00,0.0,41
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Keskmine brutokuupalk, eurot",2022,1332.00,1645.00,81.0,-313.00,-0.6,38
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Keskmine brutokuupalk, eurot",2023,1482.00,1832.00,80.9,-350.00,-0.7,38
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Keskmine brutokuupalk, eurot",2024,1593.00,1981.00,80.4,-388.00,-1.2,34
+omavalitsus,Lääne-Viru maakond,Rakvere linn,"Keskmine brutokuupalk, eurot",2025,1678.00,2092.00,80.2,-414.00,-1.4,38
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1047.00,1200.00,87.3,-153.00,0.0,38
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1137.00,1340.00,84.9,-203.00,-2.4,47
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1230.00,1501.00,81.9,-271.00,-5.4,51
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1276.00,1628.00,78.4,-352.00,-8.9,63
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1356.00,1724.00,78.7,-368.00,-8.6,65
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Keskmine brutokuupalk, eurot",2021,1171.00,1474.00,79.4,-303.00,0.0,49
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Keskmine brutokuupalk, eurot",2022,1277.00,1645.00,77.6,-368.00,-1.8,50
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Keskmine brutokuupalk, eurot",2023,1411.00,1832.00,77.0,-421.00,-2.4,52
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Keskmine brutokuupalk, eurot",2024,1467.00,1981.00,74.1,-514.00,-5.3,64
+omavalitsus,Lääne-Viru maakond,Rakvere vald,"Keskmine brutokuupalk, eurot",2025,1545.00,2092.00,73.9,-547.00,-5.5,67
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1016.00,1200.00,84.7,-184.00,0.0,48
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1105.00,1340.00,82.5,-235.00,-2.2,54
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1229.00,1501.00,81.9,-272.00,-2.8,52
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1329.00,1628.00,81.6,-299.00,-3.1,51
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1412.00,1724.00,81.9,-312.00,-2.8,51
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Keskmine brutokuupalk, eurot",2021,1144.00,1474.00,77.6,-330.00,0.0,58
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Keskmine brutokuupalk, eurot",2022,1234.00,1645.00,75.0,-411.00,-2.6,63
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Keskmine brutokuupalk, eurot",2023,1389.00,1832.00,75.8,-443.00,-1.8,60
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Keskmine brutokuupalk, eurot",2024,1488.00,1981.00,75.1,-493.00,-2.5,58
+omavalitsus,Lääne-Viru maakond,Tapa vald,"Keskmine brutokuupalk, eurot",2025,1568.00,2092.00,75.0,-524.00,-2.6,62
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1012.00,1200.00,84.3,-188.00,0.0,50
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1125.00,1340.00,84.0,-215.00,-0.3,50
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1280.00,1501.00,85.3,-221.00,1.0,40
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1428.00,1628.00,87.7,-200.00,3.4,30
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1521.00,1724.00,88.2,-203.00,3.9,29
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Keskmine brutokuupalk, eurot",2021,1146.00,1474.00,77.7,-328.00,0.0,56
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Keskmine brutokuupalk, eurot",2022,1262.00,1645.00,76.7,-383.00,-1.0,53
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Keskmine brutokuupalk, eurot",2023,1437.00,1832.00,78.4,-395.00,0.7,48
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Keskmine brutokuupalk, eurot",2024,1591.00,1981.00,80.3,-390.00,2.6,35
+omavalitsus,Lääne-Viru maakond,Vinni vald,"Keskmine brutokuupalk, eurot",2025,1716.00,2092.00,82.0,-376.00,4.3,31
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1113.00,1200.00,92.8,-87.00,0.0,26
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1228.00,1340.00,91.6,-112.00,-1.2,26
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1384.00,1501.00,92.2,-117.00,-0.6,19
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1452.00,1628.00,89.2,-176.00,-3.6,26
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1507.00,1724.00,87.4,-217.00,-5.4,31
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Keskmine brutokuupalk, eurot",2021,1284.00,1474.00,87.1,-190.00,0.0,21
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Keskmine brutokuupalk, eurot",2022,1417.00,1645.00,86.1,-228.00,-1.0,22
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Keskmine brutokuupalk, eurot",2023,1559.00,1832.00,85.1,-273.00,-2.0,24
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Keskmine brutokuupalk, eurot",2024,1679.00,1981.00,84.8,-302.00,-2.3,20
+omavalitsus,Lääne-Viru maakond,Viru-Nigula vald,"Keskmine brutokuupalk, eurot",2025,1784.00,2092.00,85.3,-308.00,-1.8,20
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,958.00,1200.00,79.8,-242.00,0.0,64
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1060.00,1340.00,79.1,-280.00,-0.7,63
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1175.00,1501.00,78.3,-326.00,-1.5,64
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1320.00,1628.00,81.1,-308.00,1.3,52
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1399.00,1724.00,81.1,-325.00,1.3,54
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Keskmine brutokuupalk, eurot",2021,1152.00,1474.00,78.2,-322.00,0.0,53
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Keskmine brutokuupalk, eurot",2022,1244.00,1645.00,75.6,-401.00,-2.6,60
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Keskmine brutokuupalk, eurot",2023,1397.00,1832.00,76.3,-435.00,-1.9,57
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Keskmine brutokuupalk, eurot",2024,1512.00,1981.00,76.3,-469.00,-1.9,54
+omavalitsus,Lääne-Viru maakond,Väike-Maarja vald,"Keskmine brutokuupalk, eurot",2025,1592.00,2092.00,76.1,-500.00,-2.1,57
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,839.00,1200.00,69.9,-361.00,0.0,74
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,985.00,1340.00,73.5,-355.00,3.6,73
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1130.00,1501.00,75.3,-371.00,5.4,70
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1201.00,1628.00,73.8,-427.00,3.9,72
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1314.00,1724.00,76.2,-410.00,6.3,70
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Keskmine brutokuupalk, eurot",2021,1043.00,1474.00,70.8,-431.00,0.0,72
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Keskmine brutokuupalk, eurot",2022,1178.00,1645.00,71.6,-467.00,0.8,68
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Keskmine brutokuupalk, eurot",2023,1345.00,1832.00,73.4,-487.00,2.6,66
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Keskmine brutokuupalk, eurot",2024,1464.00,1981.00,73.9,-517.00,3.1,65
+omavalitsus,Pärnu maakond,Häädemeeste vald,"Keskmine brutokuupalk, eurot",2025,1554.00,2092.00,74.3,-538.00,3.5,64
+omavalitsus,Pärnu maakond,Kihnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,922.00,1200.00,76.8,-278.00,0.0,67
+omavalitsus,Pärnu maakond,Kihnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1044.00,1340.00,77.9,-296.00,1.1,66
+omavalitsus,Pärnu maakond,Kihnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1300.00,1501.00,86.6,-201.00,9.8,36
+omavalitsus,Pärnu maakond,Kihnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1369.00,1628.00,84.1,-259.00,7.3,46
+omavalitsus,Pärnu maakond,Kihnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1445.00,1724.00,83.8,-279.00,7.0,47
+omavalitsus,Pärnu maakond,Kihnu vald,"Keskmine brutokuupalk, eurot",2021,1157.00,1474.00,78.5,-317.00,0.0,51
+omavalitsus,Pärnu maakond,Kihnu vald,"Keskmine brutokuupalk, eurot",2022,1253.00,1645.00,76.2,-392.00,-2.3,59
+omavalitsus,Pärnu maakond,Kihnu vald,"Keskmine brutokuupalk, eurot",2023,1506.00,1832.00,82.2,-326.00,3.7,29
+omavalitsus,Pärnu maakond,Kihnu vald,"Keskmine brutokuupalk, eurot",2024,1518.00,1981.00,76.6,-463.00,-1.9,53
+omavalitsus,Pärnu maakond,Kihnu vald,"Keskmine brutokuupalk, eurot",2025,1649.00,2092.00,78.8,-443.00,0.3,45
+omavalitsus,Pärnu maakond,Lääneranna vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1000.00,1200.00,83.3,-200.00,0.0,53
+omavalitsus,Pärnu maakond,Lääneranna vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1058.00,1340.00,79.0,-282.00,-4.3,64
+omavalitsus,Pärnu maakond,Lääneranna vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1173.00,1501.00,78.1,-328.00,-5.2,65
+omavalitsus,Pärnu maakond,Lääneranna vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1241.00,1628.00,76.2,-387.00,-7.1,69
+omavalitsus,Pärnu maakond,Lääneranna vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1335.00,1724.00,77.4,-389.00,-5.9,67
+omavalitsus,Pärnu maakond,Lääneranna vald,"Keskmine brutokuupalk, eurot",2021,1092.00,1474.00,74.1,-382.00,0.0,67
+omavalitsus,Pärnu maakond,Lääneranna vald,"Keskmine brutokuupalk, eurot",2022,1164.00,1645.00,70.8,-481.00,-3.3,70
+omavalitsus,Pärnu maakond,Lääneranna vald,"Keskmine brutokuupalk, eurot",2023,1314.00,1832.00,71.7,-518.00,-2.4,70
+omavalitsus,Pärnu maakond,Lääneranna vald,"Keskmine brutokuupalk, eurot",2024,1416.00,1981.00,71.5,-565.00,-2.6,73
+omavalitsus,Pärnu maakond,Lääneranna vald,"Keskmine brutokuupalk, eurot",2025,1510.00,2092.00,72.2,-582.00,-1.9,72
+omavalitsus,Pärnu maakond,Pärnu linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1030.00,1200.00,85.8,-170.00,0.0,45
+omavalitsus,Pärnu maakond,Pärnu linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1161.00,1340.00,86.6,-179.00,0.8,41
+omavalitsus,Pärnu maakond,Pärnu linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1274.00,1501.00,84.9,-227.00,-0.9,42
+omavalitsus,Pärnu maakond,Pärnu linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1373.00,1628.00,84.3,-255.00,-1.5,42
+omavalitsus,Pärnu maakond,Pärnu linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1450.00,1724.00,84.1,-274.00,-1.7,45
+omavalitsus,Pärnu maakond,Pärnu linn,"Keskmine brutokuupalk, eurot",2021,1215.00,1474.00,82.4,-259.00,0.0,36
+omavalitsus,Pärnu maakond,Pärnu linn,"Keskmine brutokuupalk, eurot",2022,1355.00,1645.00,82.4,-290.00,0.0,31
+omavalitsus,Pärnu maakond,Pärnu linn,"Keskmine brutokuupalk, eurot",2023,1504.00,1832.00,82.1,-328.00,-0.3,31
+omavalitsus,Pärnu maakond,Pärnu linn,"Keskmine brutokuupalk, eurot",2024,1629.00,1981.00,82.2,-352.00,-0.2,29
+omavalitsus,Pärnu maakond,Pärnu linn,"Keskmine brutokuupalk, eurot",2025,1710.00,2092.00,81.7,-382.00,-0.7,32
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,986.00,1200.00,82.2,-214.00,0.0,59
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1102.00,1340.00,82.2,-238.00,0.0,55
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1228.00,1501.00,81.8,-273.00,-0.4,53
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1300.00,1628.00,79.9,-328.00,-2.3,58
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1451.00,1724.00,84.2,-273.00,2.0,43
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Keskmine brutokuupalk, eurot",2021,1104.00,1474.00,74.9,-370.00,0.0,66
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Keskmine brutokuupalk, eurot",2022,1230.00,1645.00,74.8,-415.00,-0.1,64
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Keskmine brutokuupalk, eurot",2023,1390.00,1832.00,75.9,-442.00,1.0,58
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Keskmine brutokuupalk, eurot",2024,1460.00,1981.00,73.7,-521.00,-1.2,66
+omavalitsus,Pärnu maakond,Põhja-Pärnumaa vald,"Keskmine brutokuupalk, eurot",2025,1584.00,2092.00,75.7,-508.00,0.8,60
+omavalitsus,Pärnu maakond,Saarde vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1000.00,1200.00,83.3,-200.00,0.0,53
+omavalitsus,Pärnu maakond,Saarde vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1125.00,1340.00,84.0,-215.00,0.7,50
+omavalitsus,Pärnu maakond,Saarde vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1236.00,1501.00,82.3,-265.00,-1.0,50
+omavalitsus,Pärnu maakond,Saarde vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1347.00,1628.00,82.7,-281.00,-0.6,49
+omavalitsus,Pärnu maakond,Saarde vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1393.00,1724.00,80.8,-331.00,-2.5,56
+omavalitsus,Pärnu maakond,Saarde vald,"Keskmine brutokuupalk, eurot",2021,1145.00,1474.00,77.7,-329.00,0.0,57
+omavalitsus,Pärnu maakond,Saarde vald,"Keskmine brutokuupalk, eurot",2022,1277.00,1645.00,77.6,-368.00,-0.1,50
+omavalitsus,Pärnu maakond,Saarde vald,"Keskmine brutokuupalk, eurot",2023,1412.00,1832.00,77.1,-420.00,-0.6,51
+omavalitsus,Pärnu maakond,Saarde vald,"Keskmine brutokuupalk, eurot",2024,1541.00,1981.00,77.8,-440.00,0.1,48
+omavalitsus,Pärnu maakond,Saarde vald,"Keskmine brutokuupalk, eurot",2025,1588.00,2092.00,75.9,-504.00,-1.8,59
+omavalitsus,Pärnu maakond,Tori vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1047.00,1200.00,87.3,-153.00,0.0,38
+omavalitsus,Pärnu maakond,Tori vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1158.00,1340.00,86.4,-182.00,-0.9,43
+omavalitsus,Pärnu maakond,Tori vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1287.00,1501.00,85.7,-214.00,-1.6,38
+omavalitsus,Pärnu maakond,Tori vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1377.00,1628.00,84.6,-251.00,-2.7,41
+omavalitsus,Pärnu maakond,Tori vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1451.00,1724.00,84.2,-273.00,-3.1,43
+omavalitsus,Pärnu maakond,Tori vald,"Keskmine brutokuupalk, eurot",2021,1216.00,1474.00,82.5,-258.00,0.0,35
+omavalitsus,Pärnu maakond,Tori vald,"Keskmine brutokuupalk, eurot",2022,1338.00,1645.00,81.3,-307.00,-1.2,35
+omavalitsus,Pärnu maakond,Tori vald,"Keskmine brutokuupalk, eurot",2023,1484.00,1832.00,81.0,-348.00,-1.5,37
+omavalitsus,Pärnu maakond,Tori vald,"Keskmine brutokuupalk, eurot",2024,1573.00,1981.00,79.4,-408.00,-3.1,42
+omavalitsus,Pärnu maakond,Tori vald,"Keskmine brutokuupalk, eurot",2025,1659.00,2092.00,79.3,-433.00,-3.2,44
+omavalitsus,Põlva maakond,Kanepi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1025.00,1200.00,85.4,-175.00,0.0,47
+omavalitsus,Põlva maakond,Kanepi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1133.00,1340.00,84.6,-207.00,-0.8,48
+omavalitsus,Põlva maakond,Kanepi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1220.00,1501.00,81.3,-281.00,-4.1,56
+omavalitsus,Põlva maakond,Kanepi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1314.00,1628.00,80.7,-314.00,-4.7,53
+omavalitsus,Põlva maakond,Kanepi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1384.00,1724.00,80.3,-340.00,-5.1,59
+omavalitsus,Põlva maakond,Kanepi vald,"Keskmine brutokuupalk, eurot",2021,1147.00,1474.00,77.8,-327.00,0.0,55
+omavalitsus,Põlva maakond,Kanepi vald,"Keskmine brutokuupalk, eurot",2022,1262.00,1645.00,76.7,-383.00,-1.1,53
+omavalitsus,Põlva maakond,Kanepi vald,"Keskmine brutokuupalk, eurot",2023,1380.00,1832.00,75.3,-452.00,-2.5,62
+omavalitsus,Põlva maakond,Kanepi vald,"Keskmine brutokuupalk, eurot",2024,1470.00,1981.00,74.2,-511.00,-3.6,61
+omavalitsus,Põlva maakond,Kanepi vald,"Keskmine brutokuupalk, eurot",2025,1567.00,2092.00,74.9,-525.00,-2.9,63
+omavalitsus,Põlva maakond,Põlva vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1043.00,1200.00,86.9,-157.00,0.0,41
+omavalitsus,Põlva maakond,Põlva vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1167.00,1340.00,87.1,-173.00,0.2,38
+omavalitsus,Põlva maakond,Põlva vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1270.00,1501.00,84.6,-231.00,-2.3,44
+omavalitsus,Põlva maakond,Põlva vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1372.00,1628.00,84.3,-256.00,-2.6,44
+omavalitsus,Põlva maakond,Põlva vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1470.00,1724.00,85.3,-254.00,-1.6,38
+omavalitsus,Põlva maakond,Põlva vald,"Keskmine brutokuupalk, eurot",2021,1189.00,1474.00,80.7,-285.00,0.0,45
+omavalitsus,Põlva maakond,Põlva vald,"Keskmine brutokuupalk, eurot",2022,1316.00,1645.00,80.0,-329.00,-0.7,41
+omavalitsus,Põlva maakond,Põlva vald,"Keskmine brutokuupalk, eurot",2023,1457.00,1832.00,79.5,-375.00,-1.2,43
+omavalitsus,Põlva maakond,Põlva vald,"Keskmine brutokuupalk, eurot",2024,1572.00,1981.00,79.4,-409.00,-1.3,43
+omavalitsus,Põlva maakond,Põlva vald,"Keskmine brutokuupalk, eurot",2025,1684.00,2092.00,80.5,-408.00,-0.2,36
+omavalitsus,Põlva maakond,Räpina vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,954.00,1200.00,79.5,-246.00,0.0,65
+omavalitsus,Põlva maakond,Räpina vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1041.00,1340.00,77.7,-299.00,-1.8,67
+omavalitsus,Põlva maakond,Räpina vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1161.00,1501.00,77.3,-340.00,-2.2,67
+omavalitsus,Põlva maakond,Räpina vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1270.00,1628.00,78.0,-358.00,-1.5,64
+omavalitsus,Põlva maakond,Räpina vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1338.00,1724.00,77.6,-386.00,-1.9,66
+omavalitsus,Põlva maakond,Räpina vald,"Keskmine brutokuupalk, eurot",2021,1123.00,1474.00,76.2,-351.00,0.0,64
+omavalitsus,Põlva maakond,Räpina vald,"Keskmine brutokuupalk, eurot",2022,1221.00,1645.00,74.2,-424.00,-2.0,65
+omavalitsus,Põlva maakond,Räpina vald,"Keskmine brutokuupalk, eurot",2023,1356.00,1832.00,74.0,-476.00,-2.2,65
+omavalitsus,Põlva maakond,Räpina vald,"Keskmine brutokuupalk, eurot",2024,1474.00,1981.00,74.4,-507.00,-1.8,59
+omavalitsus,Põlva maakond,Räpina vald,"Keskmine brutokuupalk, eurot",2025,1551.00,2092.00,74.1,-541.00,-2.1,65
+omavalitsus,Rapla maakond,Kehtna vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1088.00,1200.00,90.7,-112.00,0.0,32
+omavalitsus,Rapla maakond,Kehtna vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1173.00,1340.00,87.5,-167.00,-3.2,36
+omavalitsus,Rapla maakond,Kehtna vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1335.00,1501.00,88.9,-166.00,-1.8,28
+omavalitsus,Rapla maakond,Kehtna vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1453.00,1628.00,89.3,-175.00,-1.4,25
+omavalitsus,Rapla maakond,Kehtna vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1581.00,1724.00,91.7,-143.00,1.0,17
+omavalitsus,Rapla maakond,Kehtna vald,"Keskmine brutokuupalk, eurot",2021,1274.00,1474.00,86.4,-200.00,0.0,25
+omavalitsus,Rapla maakond,Kehtna vald,"Keskmine brutokuupalk, eurot",2022,1391.00,1645.00,84.6,-254.00,-1.8,26
+omavalitsus,Rapla maakond,Kehtna vald,"Keskmine brutokuupalk, eurot",2023,1564.00,1832.00,85.4,-268.00,-1.0,22
+omavalitsus,Rapla maakond,Kehtna vald,"Keskmine brutokuupalk, eurot",2024,1674.00,1981.00,84.5,-307.00,-1.9,22
+omavalitsus,Rapla maakond,Kehtna vald,"Keskmine brutokuupalk, eurot",2025,1796.00,2092.00,85.9,-296.00,-0.5,17
+omavalitsus,Rapla maakond,Kohila vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1167.00,1200.00,97.3,-33.00,0.0,14
+omavalitsus,Rapla maakond,Kohila vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1286.00,1340.00,96.0,-54.00,-1.3,15
+omavalitsus,Rapla maakond,Kohila vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1402.00,1501.00,93.4,-99.00,-3.9,15
+omavalitsus,Rapla maakond,Kohila vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1485.00,1628.00,91.2,-143.00,-6.1,20
+omavalitsus,Rapla maakond,Kohila vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1578.00,1724.00,91.5,-146.00,-5.8,18
+omavalitsus,Rapla maakond,Kohila vald,"Keskmine brutokuupalk, eurot",2021,1293.00,1474.00,87.7,-181.00,0.0,18
+omavalitsus,Rapla maakond,Kohila vald,"Keskmine brutokuupalk, eurot",2022,1423.00,1645.00,86.5,-222.00,-1.2,20
+omavalitsus,Rapla maakond,Kohila vald,"Keskmine brutokuupalk, eurot",2023,1563.00,1832.00,85.3,-269.00,-2.4,23
+omavalitsus,Rapla maakond,Kohila vald,"Keskmine brutokuupalk, eurot",2024,1678.00,1981.00,84.7,-303.00,-3.0,21
+omavalitsus,Rapla maakond,Kohila vald,"Keskmine brutokuupalk, eurot",2025,1784.00,2092.00,85.3,-308.00,-2.4,20
+omavalitsus,Rapla maakond,Märjamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,986.00,1200.00,82.2,-214.00,0.0,59
+omavalitsus,Rapla maakond,Märjamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1087.00,1340.00,81.1,-253.00,-1.1,58
+omavalitsus,Rapla maakond,Märjamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1181.00,1501.00,78.7,-320.00,-3.5,62
+omavalitsus,Rapla maakond,Märjamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1270.00,1628.00,78.0,-358.00,-4.2,64
+omavalitsus,Rapla maakond,Märjamaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1361.00,1724.00,78.9,-363.00,-3.3,64
+omavalitsus,Rapla maakond,Märjamaa vald,"Keskmine brutokuupalk, eurot",2021,1131.00,1474.00,76.7,-343.00,0.0,62
+omavalitsus,Rapla maakond,Märjamaa vald,"Keskmine brutokuupalk, eurot",2022,1236.00,1645.00,75.1,-409.00,-1.6,62
+omavalitsus,Rapla maakond,Märjamaa vald,"Keskmine brutokuupalk, eurot",2023,1369.00,1832.00,74.7,-463.00,-2.0,64
+omavalitsus,Rapla maakond,Märjamaa vald,"Keskmine brutokuupalk, eurot",2024,1470.00,1981.00,74.2,-511.00,-2.5,61
+omavalitsus,Rapla maakond,Märjamaa vald,"Keskmine brutokuupalk, eurot",2025,1591.00,2092.00,76.1,-501.00,-0.6,58
+omavalitsus,Rapla maakond,Rapla vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1066.00,1200.00,88.8,-134.00,0.0,35
+omavalitsus,Rapla maakond,Rapla vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1174.00,1340.00,87.6,-166.00,-1.2,35
+omavalitsus,Rapla maakond,Rapla vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1300.00,1501.00,86.6,-201.00,-2.2,36
+omavalitsus,Rapla maakond,Rapla vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1385.00,1628.00,85.1,-243.00,-3.7,39
+omavalitsus,Rapla maakond,Rapla vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1457.00,1724.00,84.5,-267.00,-4.3,41
+omavalitsus,Rapla maakond,Rapla vald,"Keskmine brutokuupalk, eurot",2021,1214.00,1474.00,82.4,-260.00,0.0,37
+omavalitsus,Rapla maakond,Rapla vald,"Keskmine brutokuupalk, eurot",2022,1334.00,1645.00,81.1,-311.00,-1.3,37
+omavalitsus,Rapla maakond,Rapla vald,"Keskmine brutokuupalk, eurot",2023,1478.00,1832.00,80.7,-354.00,-1.7,40
+omavalitsus,Rapla maakond,Rapla vald,"Keskmine brutokuupalk, eurot",2024,1584.00,1981.00,80.0,-397.00,-2.4,38
+omavalitsus,Rapla maakond,Rapla vald,"Keskmine brutokuupalk, eurot",2025,1676.00,2092.00,80.1,-416.00,-2.3,39
+omavalitsus,Saare maakond,Muhu vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,905.00,1200.00,75.4,-295.00,0.0,70
+omavalitsus,Saare maakond,Muhu vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,988.00,1340.00,73.7,-352.00,-1.7,72
+omavalitsus,Saare maakond,Muhu vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1107.00,1501.00,73.8,-394.00,-1.6,73
+omavalitsus,Saare maakond,Muhu vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1233.00,1628.00,75.7,-395.00,0.3,70
+omavalitsus,Saare maakond,Muhu vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1296.00,1724.00,75.2,-428.00,-0.2,72
+omavalitsus,Saare maakond,Muhu vald,"Keskmine brutokuupalk, eurot",2021,999.00,1474.00,67.8,-475.00,0.0,76
+omavalitsus,Saare maakond,Muhu vald,"Keskmine brutokuupalk, eurot",2022,1111.00,1645.00,67.5,-534.00,-0.3,76
+omavalitsus,Saare maakond,Muhu vald,"Keskmine brutokuupalk, eurot",2023,1255.00,1832.00,68.5,-577.00,0.7,76
+omavalitsus,Saare maakond,Muhu vald,"Keskmine brutokuupalk, eurot",2024,1368.00,1981.00,69.1,-613.00,1.3,75
+omavalitsus,Saare maakond,Muhu vald,"Keskmine brutokuupalk, eurot",2025,1424.00,2092.00,68.1,-668.00,0.3,77
+omavalitsus,Saare maakond,Ruhnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1232.00,1200.00,102.7,32.00,0.0,8
+omavalitsus,Saare maakond,Ruhnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1290.00,1340.00,96.3,-50.00,-6.4,13
+omavalitsus,Saare maakond,Ruhnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1346.00,1501.00,89.7,-155.00,-13.0,26
+omavalitsus,Saare maakond,Ruhnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1387.00,1628.00,85.2,-241.00,-17.5,37
+omavalitsus,Saare maakond,Ruhnu vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1547.00,1724.00,89.7,-177.00,-13.0,23
+omavalitsus,Saare maakond,Ruhnu vald,"Keskmine brutokuupalk, eurot",2021,1276.00,1474.00,86.6,-198.00,0.0,23
+omavalitsus,Saare maakond,Ruhnu vald,"Keskmine brutokuupalk, eurot",2022,1313.00,1645.00,79.8,-332.00,-6.8,43
+omavalitsus,Saare maakond,Ruhnu vald,"Keskmine brutokuupalk, eurot",2023,1453.00,1832.00,79.3,-379.00,-7.3,44
+omavalitsus,Saare maakond,Ruhnu vald,"Keskmine brutokuupalk, eurot",2024,1469.00,1981.00,74.2,-512.00,-12.4,63
+omavalitsus,Saare maakond,Ruhnu vald,"Keskmine brutokuupalk, eurot",2025,1622.00,2092.00,77.5,-470.00,-9.1,49
+omavalitsus,Saare maakond,Saaremaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1000.00,1200.00,83.3,-200.00,0.0,53
+omavalitsus,Saare maakond,Saaremaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1100.00,1340.00,82.1,-240.00,-1.2,57
+omavalitsus,Saare maakond,Saaremaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1208.00,1501.00,80.5,-293.00,-2.8,57
+omavalitsus,Saare maakond,Saaremaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1309.00,1628.00,80.4,-319.00,-2.9,56
+omavalitsus,Saare maakond,Saaremaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1395.00,1724.00,80.9,-329.00,-2.4,55
+omavalitsus,Saare maakond,Saaremaa vald,"Keskmine brutokuupalk, eurot",2021,1148.00,1474.00,77.9,-326.00,0.0,54
+omavalitsus,Saare maakond,Saaremaa vald,"Keskmine brutokuupalk, eurot",2022,1263.00,1645.00,76.8,-382.00,-1.1,52
+omavalitsus,Saare maakond,Saaremaa vald,"Keskmine brutokuupalk, eurot",2023,1400.00,1832.00,76.4,-432.00,-1.5,55
+omavalitsus,Saare maakond,Saaremaa vald,"Keskmine brutokuupalk, eurot",2024,1523.00,1981.00,76.9,-458.00,-1.0,52
+omavalitsus,Saare maakond,Saaremaa vald,"Keskmine brutokuupalk, eurot",2025,1611.00,2092.00,77.0,-481.00,-0.9,53
+omavalitsus,Tartu maakond,Elva vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1100.00,1200.00,91.7,-100.00,0.0,28
+omavalitsus,Tartu maakond,Elva vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1198.00,1340.00,89.4,-142.00,-2.3,32
+omavalitsus,Tartu maakond,Elva vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1335.00,1501.00,88.9,-166.00,-2.8,28
+omavalitsus,Tartu maakond,Elva vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1444.00,1628.00,88.7,-184.00,-3.0,28
+omavalitsus,Tartu maakond,Elva vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1547.00,1724.00,89.7,-177.00,-2.0,23
+omavalitsus,Tartu maakond,Elva vald,"Keskmine brutokuupalk, eurot",2021,1224.00,1474.00,83.0,-250.00,0.0,33
+omavalitsus,Tartu maakond,Elva vald,"Keskmine brutokuupalk, eurot",2022,1343.00,1645.00,81.6,-302.00,-1.4,34
+omavalitsus,Tartu maakond,Elva vald,"Keskmine brutokuupalk, eurot",2023,1493.00,1832.00,81.5,-339.00,-1.5,33
+omavalitsus,Tartu maakond,Elva vald,"Keskmine brutokuupalk, eurot",2024,1619.00,1981.00,81.7,-362.00,-1.3,30
+omavalitsus,Tartu maakond,Elva vald,"Keskmine brutokuupalk, eurot",2025,1719.00,2092.00,82.2,-373.00,-0.8,30
+omavalitsus,Tartu maakond,Kambja vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1221.00,1200.00,101.8,21.00,0.0,9
+omavalitsus,Tartu maakond,Kambja vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1337.00,1340.00,99.8,-3.00,-2.0,9
+omavalitsus,Tartu maakond,Kambja vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1500.00,1501.00,99.9,-1.00,-1.9,8
+omavalitsus,Tartu maakond,Kambja vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1569.00,1628.00,96.4,-59.00,-5.4,8
+omavalitsus,Tartu maakond,Kambja vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1686.00,1724.00,97.8,-38.00,-4.0,8
+omavalitsus,Tartu maakond,Kambja vald,"Keskmine brutokuupalk, eurot",2021,1400.00,1474.00,95.0,-74.00,0.0,8
+omavalitsus,Tartu maakond,Kambja vald,"Keskmine brutokuupalk, eurot",2022,1541.00,1645.00,93.7,-104.00,-1.3,8
+omavalitsus,Tartu maakond,Kambja vald,"Keskmine brutokuupalk, eurot",2023,1706.00,1832.00,93.1,-126.00,-1.9,8
+omavalitsus,Tartu maakond,Kambja vald,"Keskmine brutokuupalk, eurot",2024,1812.00,1981.00,91.5,-169.00,-3.5,8
+omavalitsus,Tartu maakond,Kambja vald,"Keskmine brutokuupalk, eurot",2025,1928.00,2092.00,92.2,-164.00,-2.8,7
+omavalitsus,Tartu maakond,Kastre vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1144.00,1200.00,95.3,-56.00,0.0,17
+omavalitsus,Tartu maakond,Kastre vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1288.00,1340.00,96.1,-52.00,0.8,14
+omavalitsus,Tartu maakond,Kastre vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1437.00,1501.00,95.7,-64.00,0.4,11
+omavalitsus,Tartu maakond,Kastre vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1494.00,1628.00,91.8,-134.00,-3.5,15
+omavalitsus,Tartu maakond,Kastre vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1500.00,1724.00,87.0,-224.00,-8.3,34
+omavalitsus,Tartu maakond,Kastre vald,"Keskmine brutokuupalk, eurot",2021,1219.00,1474.00,82.7,-255.00,0.0,34
+omavalitsus,Tartu maakond,Kastre vald,"Keskmine brutokuupalk, eurot",2022,1379.00,1645.00,83.8,-266.00,1.1,28
+omavalitsus,Tartu maakond,Kastre vald,"Keskmine brutokuupalk, eurot",2023,1541.00,1832.00,84.1,-291.00,1.4,27
+omavalitsus,Tartu maakond,Kastre vald,"Keskmine brutokuupalk, eurot",2024,1590.00,1981.00,80.3,-391.00,-2.4,36
+omavalitsus,Tartu maakond,Kastre vald,"Keskmine brutokuupalk, eurot",2025,1662.00,2092.00,79.4,-430.00,-3.3,43
+omavalitsus,Tartu maakond,Luunja vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1115.00,1200.00,92.9,-85.00,0.0,25
+omavalitsus,Tartu maakond,Luunja vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1203.00,1340.00,89.8,-137.00,-3.1,29
+omavalitsus,Tartu maakond,Luunja vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1334.00,1501.00,88.9,-167.00,-4.0,30
+omavalitsus,Tartu maakond,Luunja vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1414.00,1628.00,86.9,-214.00,-6.0,31
+omavalitsus,Tartu maakond,Luunja vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1508.00,1724.00,87.5,-216.00,-5.4,30
+omavalitsus,Tartu maakond,Luunja vald,"Keskmine brutokuupalk, eurot",2021,1280.00,1474.00,86.8,-194.00,0.0,22
+omavalitsus,Tartu maakond,Luunja vald,"Keskmine brutokuupalk, eurot",2022,1406.00,1645.00,85.5,-239.00,-1.3,24
+omavalitsus,Tartu maakond,Luunja vald,"Keskmine brutokuupalk, eurot",2023,1565.00,1832.00,85.4,-267.00,-1.4,21
+omavalitsus,Tartu maakond,Luunja vald,"Keskmine brutokuupalk, eurot",2024,1665.00,1981.00,84.0,-316.00,-2.8,24
+omavalitsus,Tartu maakond,Luunja vald,"Keskmine brutokuupalk, eurot",2025,1749.00,2092.00,83.6,-343.00,-3.2,24
+omavalitsus,Tartu maakond,Nõo vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1083.00,1200.00,90.3,-117.00,0.0,33
+omavalitsus,Tartu maakond,Nõo vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1160.00,1340.00,86.6,-180.00,-3.7,42
+omavalitsus,Tartu maakond,Nõo vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1345.00,1501.00,89.6,-156.00,-0.7,27
+omavalitsus,Tartu maakond,Nõo vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1465.00,1628.00,90.0,-163.00,-0.3,23
+omavalitsus,Tartu maakond,Nõo vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1530.00,1724.00,88.7,-194.00,-1.6,28
+omavalitsus,Tartu maakond,Nõo vald,"Keskmine brutokuupalk, eurot",2021,1213.00,1474.00,82.3,-261.00,0.0,39
+omavalitsus,Tartu maakond,Nõo vald,"Keskmine brutokuupalk, eurot",2022,1304.00,1645.00,79.3,-341.00,-3.0,44
+omavalitsus,Tartu maakond,Nõo vald,"Keskmine brutokuupalk, eurot",2023,1470.00,1832.00,80.2,-362.00,-2.1,41
+omavalitsus,Tartu maakond,Nõo vald,"Keskmine brutokuupalk, eurot",2024,1608.00,1981.00,81.2,-373.00,-1.1,32
+omavalitsus,Tartu maakond,Nõo vald,"Keskmine brutokuupalk, eurot",2025,1696.00,2092.00,81.1,-396.00,-1.2,34
+omavalitsus,Tartu maakond,Peipsiääre vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,887.00,1200.00,73.9,-313.00,0.0,73
+omavalitsus,Tartu maakond,Peipsiääre vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1000.00,1340.00,74.6,-340.00,0.7,70
+omavalitsus,Tartu maakond,Peipsiääre vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1129.00,1501.00,75.2,-372.00,1.3,71
+omavalitsus,Tartu maakond,Peipsiääre vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1223.00,1628.00,75.1,-405.00,1.2,71
+omavalitsus,Tartu maakond,Peipsiääre vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1289.00,1724.00,74.8,-435.00,0.9,73
+omavalitsus,Tartu maakond,Peipsiääre vald,"Keskmine brutokuupalk, eurot",2021,1037.00,1474.00,70.4,-437.00,0.0,73
+omavalitsus,Tartu maakond,Peipsiääre vald,"Keskmine brutokuupalk, eurot",2022,1172.00,1645.00,71.2,-473.00,0.8,69
+omavalitsus,Tartu maakond,Peipsiääre vald,"Keskmine brutokuupalk, eurot",2023,1299.00,1832.00,70.9,-533.00,0.5,72
+omavalitsus,Tartu maakond,Peipsiääre vald,"Keskmine brutokuupalk, eurot",2024,1424.00,1981.00,71.9,-557.00,1.5,71
+omavalitsus,Tartu maakond,Peipsiääre vald,"Keskmine brutokuupalk, eurot",2025,1507.00,2092.00,72.0,-585.00,1.6,73
+omavalitsus,Tartu maakond,Tartu linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1284.00,1200.00,107.0,84.00,0.0,6
+omavalitsus,Tartu maakond,Tartu linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1432.00,1340.00,106.9,92.00,-0.1,6
+omavalitsus,Tartu maakond,Tartu linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1625.00,1501.00,108.3,124.00,1.3,6
+omavalitsus,Tartu maakond,Tartu linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1774.00,1628.00,109.0,146.00,2.0,4
+omavalitsus,Tartu maakond,Tartu linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1882.00,1724.00,109.2,158.00,2.2,4
+omavalitsus,Tartu maakond,Tartu linn,"Keskmine brutokuupalk, eurot",2021,1540.00,1474.00,104.5,66.00,0.0,5
+omavalitsus,Tartu maakond,Tartu linn,"Keskmine brutokuupalk, eurot",2022,1718.00,1645.00,104.4,73.00,-0.1,3
+omavalitsus,Tartu maakond,Tartu linn,"Keskmine brutokuupalk, eurot",2023,1929.00,1832.00,105.3,97.00,0.8,3
+omavalitsus,Tartu maakond,Tartu linn,"Keskmine brutokuupalk, eurot",2024,2104.00,1981.00,106.2,123.00,1.7,2
+omavalitsus,Tartu maakond,Tartu linn,"Keskmine brutokuupalk, eurot",2025,2229.00,2092.00,106.5,137.00,2.0,2
+omavalitsus,Tartu maakond,Tartu vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1156.00,1200.00,96.3,-44.00,0.0,16
+omavalitsus,Tartu maakond,Tartu vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1264.00,1340.00,94.3,-76.00,-2.0,16
+omavalitsus,Tartu maakond,Tartu vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1400.00,1501.00,93.3,-101.00,-3.0,16
+omavalitsus,Tartu maakond,Tartu vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1507.00,1628.00,92.6,-121.00,-3.7,14
+omavalitsus,Tartu maakond,Tartu vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1594.00,1724.00,92.5,-130.00,-3.8,14
+omavalitsus,Tartu maakond,Tartu vald,"Keskmine brutokuupalk, eurot",2021,1304.00,1474.00,88.5,-170.00,0.0,16
+omavalitsus,Tartu maakond,Tartu vald,"Keskmine brutokuupalk, eurot",2022,1451.00,1645.00,88.2,-194.00,-0.3,15
+omavalitsus,Tartu maakond,Tartu vald,"Keskmine brutokuupalk, eurot",2023,1609.00,1832.00,87.8,-223.00,-0.7,14
+omavalitsus,Tartu maakond,Tartu vald,"Keskmine brutokuupalk, eurot",2024,1723.00,1981.00,87.0,-258.00,-1.5,17
+omavalitsus,Tartu maakond,Tartu vald,"Keskmine brutokuupalk, eurot",2025,1814.00,2092.00,86.7,-278.00,-1.8,16
+omavalitsus,Valga maakond,Otepää vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1000.00,1200.00,83.3,-200.00,0.0,53
+omavalitsus,Valga maakond,Otepää vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1061.00,1340.00,79.2,-279.00,-4.1,62
+omavalitsus,Valga maakond,Otepää vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1238.00,1501.00,82.5,-263.00,-0.8,49
+omavalitsus,Valga maakond,Otepää vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1333.00,1628.00,81.9,-295.00,-1.4,50
+omavalitsus,Valga maakond,Otepää vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1420.00,1724.00,82.4,-304.00,-0.9,50
+omavalitsus,Valga maakond,Otepää vald,"Keskmine brutokuupalk, eurot",2021,1125.00,1474.00,76.3,-349.00,0.0,63
+omavalitsus,Valga maakond,Otepää vald,"Keskmine brutokuupalk, eurot",2022,1211.00,1645.00,73.6,-434.00,-2.7,66
+omavalitsus,Valga maakond,Otepää vald,"Keskmine brutokuupalk, eurot",2023,1390.00,1832.00,75.9,-442.00,-0.4,58
+omavalitsus,Valga maakond,Otepää vald,"Keskmine brutokuupalk, eurot",2024,1504.00,1981.00,75.9,-477.00,-0.4,55
+omavalitsus,Valga maakond,Otepää vald,"Keskmine brutokuupalk, eurot",2025,1604.00,2092.00,76.7,-488.00,0.4,54
+omavalitsus,Valga maakond,Tõrva vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,984.00,1200.00,82.0,-216.00,0.0,61
+omavalitsus,Valga maakond,Tõrva vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1064.00,1340.00,79.4,-276.00,-2.6,61
+omavalitsus,Valga maakond,Tõrva vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1161.00,1501.00,77.3,-340.00,-4.7,67
+omavalitsus,Valga maakond,Tõrva vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1250.00,1628.00,76.8,-378.00,-5.2,66
+omavalitsus,Valga maakond,Tõrva vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1371.00,1724.00,79.5,-353.00,-2.5,61
+omavalitsus,Valga maakond,Tõrva vald,"Keskmine brutokuupalk, eurot",2021,1233.00,1474.00,83.6,-241.00,0.0,32
+omavalitsus,Valga maakond,Tõrva vald,"Keskmine brutokuupalk, eurot",2022,1262.00,1645.00,76.7,-383.00,-6.9,53
+omavalitsus,Valga maakond,Tõrva vald,"Keskmine brutokuupalk, eurot",2023,1373.00,1832.00,74.9,-459.00,-8.7,63
+omavalitsus,Valga maakond,Tõrva vald,"Keskmine brutokuupalk, eurot",2024,1471.00,1981.00,74.3,-510.00,-9.3,60
+omavalitsus,Valga maakond,Tõrva vald,"Keskmine brutokuupalk, eurot",2025,1603.00,2092.00,76.6,-489.00,-7.0,55
+omavalitsus,Valga maakond,Valga vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,918.00,1200.00,76.5,-282.00,0.0,68
+omavalitsus,Valga maakond,Valga vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1016.00,1340.00,75.8,-324.00,-0.7,69
+omavalitsus,Valga maakond,Valga vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1149.00,1501.00,76.5,-352.00,0.0,69
+omavalitsus,Valga maakond,Valga vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1242.00,1628.00,76.3,-386.00,-0.2,68
+omavalitsus,Valga maakond,Valga vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1323.00,1724.00,76.7,-401.00,0.2,69
+omavalitsus,Valga maakond,Valga vald,"Keskmine brutokuupalk, eurot",2021,1061.00,1474.00,72.0,-413.00,0.0,70
+omavalitsus,Valga maakond,Valga vald,"Keskmine brutokuupalk, eurot",2022,1164.00,1645.00,70.8,-481.00,-1.2,70
+omavalitsus,Valga maakond,Valga vald,"Keskmine brutokuupalk, eurot",2023,1317.00,1832.00,71.9,-515.00,-0.1,69
+omavalitsus,Valga maakond,Valga vald,"Keskmine brutokuupalk, eurot",2024,1434.00,1981.00,72.4,-547.00,0.4,69
+omavalitsus,Valga maakond,Valga vald,"Keskmine brutokuupalk, eurot",2025,1521.00,2092.00,72.7,-571.00,0.7,70
+omavalitsus,Viljandi maakond,Mulgi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,996.00,1200.00,83.0,-204.00,0.0,57
+omavalitsus,Viljandi maakond,Mulgi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1118.00,1340.00,83.4,-222.00,0.4,52
+omavalitsus,Viljandi maakond,Mulgi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1224.00,1501.00,81.5,-277.00,-1.5,54
+omavalitsus,Viljandi maakond,Mulgi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1308.00,1628.00,80.3,-320.00,-2.7,57
+omavalitsus,Viljandi maakond,Mulgi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1387.00,1724.00,80.5,-337.00,-2.5,58
+omavalitsus,Viljandi maakond,Mulgi vald,"Keskmine brutokuupalk, eurot",2021,1164.00,1474.00,79.0,-310.00,0.0,50
+omavalitsus,Viljandi maakond,Mulgi vald,"Keskmine brutokuupalk, eurot",2022,1304.00,1645.00,79.3,-341.00,0.3,44
+omavalitsus,Viljandi maakond,Mulgi vald,"Keskmine brutokuupalk, eurot",2023,1434.00,1832.00,78.3,-398.00,-0.7,49
+omavalitsus,Viljandi maakond,Mulgi vald,"Keskmine brutokuupalk, eurot",2024,1532.00,1981.00,77.3,-449.00,-1.7,51
+omavalitsus,Viljandi maakond,Mulgi vald,"Keskmine brutokuupalk, eurot",2025,1616.00,2092.00,77.2,-476.00,-1.8,50
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1014.00,1200.00,84.5,-186.00,0.0,49
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1118.00,1340.00,83.4,-222.00,-1.1,52
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1208.00,1501.00,80.5,-293.00,-4.0,57
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1294.00,1628.00,79.5,-334.00,-5.0,60
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1377.00,1724.00,79.9,-347.00,-4.6,60
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Keskmine brutokuupalk, eurot",2021,1190.00,1474.00,80.7,-284.00,0.0,44
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Keskmine brutokuupalk, eurot",2022,1296.00,1645.00,78.8,-349.00,-1.9,48
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Keskmine brutokuupalk, eurot",2023,1415.00,1832.00,77.2,-417.00,-3.5,50
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Keskmine brutokuupalk, eurot",2024,1499.00,1981.00,75.7,-482.00,-5.0,57
+omavalitsus,Viljandi maakond,Põhja-Sakala vald,"Keskmine brutokuupalk, eurot",2025,1579.00,2092.00,75.5,-513.00,-5.2,61
+omavalitsus,Viljandi maakond,Viljandi linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,1128.00,1200.00,94.0,-72.00,0.0,21
+omavalitsus,Viljandi maakond,Viljandi linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1236.00,1340.00,92.2,-104.00,-1.8,22
+omavalitsus,Viljandi maakond,Viljandi linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1348.00,1501.00,89.8,-153.00,-4.2,25
+omavalitsus,Viljandi maakond,Viljandi linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1448.00,1628.00,88.9,-180.00,-5.1,27
+omavalitsus,Viljandi maakond,Viljandi linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1544.00,1724.00,89.6,-180.00,-4.4,25
+omavalitsus,Viljandi maakond,Viljandi linn,"Keskmine brutokuupalk, eurot",2021,1257.00,1474.00,85.3,-217.00,0.0,28
+omavalitsus,Viljandi maakond,Viljandi linn,"Keskmine brutokuupalk, eurot",2022,1381.00,1645.00,84.0,-264.00,-1.3,27
+omavalitsus,Viljandi maakond,Viljandi linn,"Keskmine brutokuupalk, eurot",2023,1519.00,1832.00,82.9,-313.00,-2.4,28
+omavalitsus,Viljandi maakond,Viljandi linn,"Keskmine brutokuupalk, eurot",2024,1633.00,1981.00,82.4,-348.00,-2.9,27
+omavalitsus,Viljandi maakond,Viljandi linn,"Keskmine brutokuupalk, eurot",2025,1733.00,2092.00,82.8,-359.00,-2.5,28
+omavalitsus,Viljandi maakond,Viljandi vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1123.00,1200.00,93.6,-77.00,0.0,23
+omavalitsus,Viljandi maakond,Viljandi vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1253.00,1340.00,93.5,-87.00,-0.1,19
+omavalitsus,Viljandi maakond,Viljandi vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1396.00,1501.00,93.0,-105.00,-0.6,18
+omavalitsus,Viljandi maakond,Viljandi vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1539.00,1628.00,94.5,-89.00,0.9,11
+omavalitsus,Viljandi maakond,Viljandi vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1619.00,1724.00,93.9,-105.00,0.3,11
+omavalitsus,Viljandi maakond,Viljandi vald,"Keskmine brutokuupalk, eurot",2021,1276.00,1474.00,86.6,-198.00,0.0,23
+omavalitsus,Viljandi maakond,Viljandi vald,"Keskmine brutokuupalk, eurot",2022,1424.00,1645.00,86.6,-221.00,0.0,18
+omavalitsus,Viljandi maakond,Viljandi vald,"Keskmine brutokuupalk, eurot",2023,1585.00,1832.00,86.5,-247.00,-0.1,18
+omavalitsus,Viljandi maakond,Viljandi vald,"Keskmine brutokuupalk, eurot",2024,1750.00,1981.00,88.3,-231.00,1.7,13
+omavalitsus,Viljandi maakond,Viljandi vald,"Keskmine brutokuupalk, eurot",2025,1818.00,2092.00,86.9,-274.00,0.3,15
+omavalitsus,Võru maakond,Antsla vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,900.00,1200.00,75.0,-300.00,0.0,72
+omavalitsus,Võru maakond,Antsla vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1000.00,1340.00,74.6,-340.00,-0.4,70
+omavalitsus,Võru maakond,Antsla vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1100.00,1501.00,73.3,-401.00,-1.7,74
+omavalitsus,Võru maakond,Antsla vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1155.00,1628.00,70.9,-473.00,-4.1,74
+omavalitsus,Võru maakond,Antsla vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1205.00,1724.00,69.9,-519.00,-5.1,76
+omavalitsus,Võru maakond,Antsla vald,"Keskmine brutokuupalk, eurot",2021,1079.00,1474.00,73.2,-395.00,0.0,68
+omavalitsus,Võru maakond,Antsla vald,"Keskmine brutokuupalk, eurot",2022,1163.00,1645.00,70.7,-482.00,-2.5,72
+omavalitsus,Võru maakond,Antsla vald,"Keskmine brutokuupalk, eurot",2023,1275.00,1832.00,69.6,-557.00,-3.6,75
+omavalitsus,Võru maakond,Antsla vald,"Keskmine brutokuupalk, eurot",2024,1355.00,1981.00,68.4,-626.00,-4.8,76
+omavalitsus,Võru maakond,Antsla vald,"Keskmine brutokuupalk, eurot",2025,1427.00,2092.00,68.2,-665.00,-5.0,76
+omavalitsus,Võru maakond,Rõuge vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,820.00,1200.00,68.3,-380.00,0.0,78
+omavalitsus,Võru maakond,Rõuge vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,905.00,1340.00,67.5,-435.00,-0.8,78
+omavalitsus,Võru maakond,Rõuge vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,991.00,1501.00,66.0,-510.00,-2.3,78
+omavalitsus,Võru maakond,Rõuge vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1092.00,1628.00,67.1,-536.00,-1.2,78
+omavalitsus,Võru maakond,Rõuge vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1194.00,1724.00,69.3,-530.00,1.0,78
+omavalitsus,Võru maakond,Rõuge vald,"Keskmine brutokuupalk, eurot",2021,936.00,1474.00,63.5,-538.00,0.0,79
+omavalitsus,Võru maakond,Rõuge vald,"Keskmine brutokuupalk, eurot",2022,1043.00,1645.00,63.4,-602.00,-0.1,78
+omavalitsus,Võru maakond,Rõuge vald,"Keskmine brutokuupalk, eurot",2023,1141.00,1832.00,62.3,-691.00,-1.2,79
+omavalitsus,Võru maakond,Rõuge vald,"Keskmine brutokuupalk, eurot",2024,1239.00,1981.00,62.5,-742.00,-1.0,79
+omavalitsus,Võru maakond,Rõuge vald,"Keskmine brutokuupalk, eurot",2025,1340.00,2092.00,64.1,-752.00,0.6,79
+omavalitsus,Võru maakond,Setomaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,912.00,1200.00,76.0,-288.00,0.0,69
+omavalitsus,Võru maakond,Setomaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1020.00,1340.00,76.1,-320.00,0.1,68
+omavalitsus,Võru maakond,Setomaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1167.00,1501.00,77.7,-334.00,1.7,66
+omavalitsus,Võru maakond,Setomaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1200.00,1628.00,73.7,-428.00,-2.3,73
+omavalitsus,Võru maakond,Setomaa vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1311.00,1724.00,76.0,-413.00,0.0,71
+omavalitsus,Võru maakond,Setomaa vald,"Keskmine brutokuupalk, eurot",2021,1073.00,1474.00,72.8,-401.00,0.0,69
+omavalitsus,Võru maakond,Setomaa vald,"Keskmine brutokuupalk, eurot",2022,1186.00,1645.00,72.1,-459.00,-0.7,67
+omavalitsus,Võru maakond,Setomaa vald,"Keskmine brutokuupalk, eurot",2023,1345.00,1832.00,73.4,-487.00,0.6,66
+omavalitsus,Võru maakond,Setomaa vald,"Keskmine brutokuupalk, eurot",2024,1421.00,1981.00,71.7,-560.00,-1.1,72
+omavalitsus,Võru maakond,Setomaa vald,"Keskmine brutokuupalk, eurot",2025,1512.00,2092.00,72.3,-580.00,-0.5,71
+omavalitsus,Võru maakond,Võru linn,"Brutokuupalga mediaan (V detsiil), eurot",2021,975.00,1200.00,81.3,-225.00,0.0,63
+omavalitsus,Võru maakond,Võru linn,"Brutokuupalga mediaan (V detsiil), eurot",2022,1102.00,1340.00,82.2,-238.00,0.9,55
+omavalitsus,Võru maakond,Võru linn,"Brutokuupalga mediaan (V detsiil), eurot",2023,1224.00,1501.00,81.5,-277.00,0.2,54
+omavalitsus,Võru maakond,Võru linn,"Brutokuupalga mediaan (V detsiil), eurot",2024,1310.00,1628.00,80.5,-318.00,-0.8,55
+omavalitsus,Võru maakond,Võru linn,"Brutokuupalga mediaan (V detsiil), eurot",2025,1391.00,1724.00,80.7,-333.00,-0.6,57
+omavalitsus,Võru maakond,Võru linn,"Keskmine brutokuupalk, eurot",2021,1116.00,1474.00,75.7,-358.00,0.0,65
+omavalitsus,Võru maakond,Võru linn,"Keskmine brutokuupalk, eurot",2022,1256.00,1645.00,76.4,-389.00,0.7,57
+omavalitsus,Võru maakond,Võru linn,"Keskmine brutokuupalk, eurot",2023,1407.00,1832.00,76.8,-425.00,1.1,53
+omavalitsus,Võru maakond,Võru linn,"Keskmine brutokuupalk, eurot",2024,1504.00,1981.00,75.9,-477.00,0.2,55
+omavalitsus,Võru maakond,Võru linn,"Keskmine brutokuupalk, eurot",2025,1603.00,2092.00,76.6,-489.00,0.9,55
+omavalitsus,Võru maakond,Võru vald,"Brutokuupalga mediaan (V detsiil), eurot",2021,1129.00,1200.00,94.1,-71.00,0.0,20
+omavalitsus,Võru maakond,Võru vald,"Brutokuupalga mediaan (V detsiil), eurot",2022,1211.00,1340.00,90.4,-129.00,-3.7,27
+omavalitsus,Võru maakond,Võru vald,"Brutokuupalga mediaan (V detsiil), eurot",2023,1355.00,1501.00,90.3,-146.00,-3.8,21
+omavalitsus,Võru maakond,Võru vald,"Brutokuupalga mediaan (V detsiil), eurot",2024,1481.00,1628.00,91.0,-147.00,-3.1,21
+omavalitsus,Võru maakond,Võru vald,"Brutokuupalga mediaan (V detsiil), eurot",2025,1582.00,1724.00,91.8,-142.00,-2.3,16
+omavalitsus,Võru maakond,Võru vald,"Keskmine brutokuupalk, eurot",2021,1341.00,1474.00,91.0,-133.00,0.0,13
+omavalitsus,Võru maakond,Võru vald,"Keskmine brutokuupalk, eurot",2022,1435.00,1645.00,87.2,-210.00,-3.8,17
+omavalitsus,Võru maakond,Võru vald,"Keskmine brutokuupalk, eurot",2023,1588.00,1832.00,86.7,-244.00,-4.3,17
+omavalitsus,Võru maakond,Võru vald,"Keskmine brutokuupalk, eurot",2024,1710.00,1981.00,86.3,-271.00,-4.7,18
+omavalitsus,Võru maakond,Võru vald,"Keskmine brutokuupalk, eurot",2025,1819.00,2092.00,87.0,-273.00,-4.0,14
