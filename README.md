@@ -20,6 +20,10 @@
 
 Vaade `v_piirkond_vs_eesti` arvutab iga maakonna palga protsendina Eesti näitajast samal aastal, muutuse protsendipunktides alates 2021. aastast ja järjestuse. Vaade `v_maakondade_vahe` näitab aastate kaupa kõrgeimat ja madalaimat maakonda, nende palkade suhet ja maakondade hajuvust. Protsent Eesti keskmisest eemaldab üldise palgakasvu ja hinnatõusu, nii et aastad on omavahel võrreldavad ja vahe muutus on otse näha.
 
+### 3.1. Pilt
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/50a4f553-14b2-4aef-b41e-dbf4d68c3c94" />
+
 ## 5. Sõnum kliendile
 
 Palga järgi läheb kõige paremini Harju maakonnas, kus keskmine palk oli 2025. aastal 12% üle Eesti keskmise, ja teisena Tartu maakonnas, mis on Eesti keskmisel tasemel. Ülejäänud 13 maakonda jäävad alla keskmise, kuid kõrgeima ja madalaima maakonna vahe on aastatega veidi kahanenud. Üllatav on, et sellegipoolest on oma positsiooni parandanud ainult Ida-Viru ja Tartu maakond. Nende andmete piirang on see, et need ei näita elukallidust ega palgaerinevusi maakonna sees ning palk üksi ei ole täielik heaolu mõõdik. Järgmise sammuna soovitan lisada ostujõu, tööhõive ja rahvastiku muutuse andmed ning vaadata neid omavalitsuse tasemel, et näha piirkondlikke erinevusi täpsemalt.
